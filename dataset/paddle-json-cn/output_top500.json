@@ -1,0 +1,12502 @@
+[
+  {
+    "resume_id": "0043e770a330",
+    "file_name": "0043e770a330.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        333
+      ],
+      [
+        321,
+        333
+      ],
+      [
+        321,
+        406
+      ],
+      [
+        255,
+        406
+      ]
+    ],
+    "score": 0.9993,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "0052b7958e89",
+    "file_name": "0052b7958e89.pdf",
+    "text": "杜",
+    "bbox": [
+      [
+        240,
+        270
+      ],
+      [
+        347,
+        270
+      ],
+      [
+        347,
+        387
+      ],
+      [
+        240,
+        387
+      ]
+    ],
+    "score": 0.9988,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "0141c76d878b",
+    "file_name": "0141c76d878b.pdf",
+    "text": "廉",
+    "bbox": [
+      [
+        148,
+        183
+      ],
+      [
+        231,
+        183
+      ],
+      [
+        231,
+        274
+      ],
+      [
+        148,
+        274
+      ]
+    ],
+    "score": 0.9938,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "0176e4a20c37",
+    "file_name": "0176e4a20c37.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        69
+      ],
+      [
+        870,
+        69
+      ],
+      [
+        870,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9985,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "01965d4b2d21",
+    "file_name": "01965d4b2d21.pdf",
+    "text": "乐",
+    "bbox": [
+      [
+        227,
+        265
+      ],
+      [
+        342,
+        259
+      ],
+      [
+        348,
+        391
+      ],
+      [
+        233,
+        396
+      ]
+    ],
+    "score": 0.9956,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "019ba53df6c6",
+    "file_name": "019ba53df6c6.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1152,
+        314
+      ],
+      [
+        1196,
+        314
+      ],
+      [
+        1196,
+        369
+      ],
+      [
+        1152,
+        369
+      ]
+    ],
+    "score": 0.9968,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "0202e64d61db",
+    "file_name": "0202e64d61db.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        73
+      ],
+      [
+        870,
+        73
+      ],
+      [
+        870,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9969,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "020b0120c240",
+    "file_name": "020b0120c240.pdf",
+    "text": "凤",
+    "bbox": [
+      [
+        1085,
+        135
+      ],
+      [
+        1203,
+        135
+      ],
+      [
+        1203,
+        263
+      ],
+      [
+        1085,
+        263
+      ]
+    ],
+    "score": 0.9973,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "021e3add6cf5",
+    "file_name": "021e3add6cf5.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1113,
+        177
+      ],
+      [
+        1279,
+        184
+      ],
+      [
+        1270,
+        363
+      ],
+      [
+        1104,
+        356
+      ]
+    ],
+    "score": 0.9994,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "0224bcd05bf5",
+    "file_name": "0224bcd05bf5.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1110,
+        117
+      ],
+      [
+        1274,
+        117
+      ],
+      [
+        1274,
+        296
+      ],
+      [
+        1110,
+        296
+      ]
+    ],
+    "score": 0.9995,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "022e188b452d",
+    "file_name": "022e188b452d.pdf",
+    "text": "郝",
+    "bbox": [
+      [
+        229,
+        267
+      ],
+      [
+        337,
+        267
+      ],
+      [
+        337,
+        387
+      ],
+      [
+        229,
+        387
+      ]
+    ],
+    "score": 0.998,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "022f8de77ec4",
+    "file_name": "022f8de77ec4.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1114,
+        172
+      ],
+      [
+        1278,
+        172
+      ],
+      [
+        1278,
+        351
+      ],
+      [
+        1114,
+        351
+      ]
+    ],
+    "score": 0.9995,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "0255dafc78a0",
+    "file_name": "0255dafc78a0.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1152,
+        318
+      ],
+      [
+        1196,
+        318
+      ],
+      [
+        1196,
+        373
+      ],
+      [
+        1152,
+        373
+      ]
+    ],
+    "score": 0.9958,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "025e40bd024d",
+    "file_name": "025e40bd024d.pdf",
+    "text": "史",
+    "bbox": [
+      [
+        244,
+        270
+      ],
+      [
+        351,
+        270
+      ],
+      [
+        351,
+        384
+      ],
+      [
+        244,
+        384
+      ]
+    ],
+    "score": 0.9996,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "02b5bd8a71b6",
+    "file_name": "02b5bd8a71b6.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        719,
+        260
+      ],
+      [
+        785,
+        260
+      ],
+      [
+        785,
+        344
+      ],
+      [
+        719,
+        344
+      ]
+    ],
+    "score": 0.9368,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "02dd7502bcb7",
+    "file_name": "02dd7502bcb7.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1114,
+        168
+      ],
+      [
+        1276,
+        168
+      ],
+      [
+        1276,
+        347
+      ],
+      [
+        1114,
+        347
+      ]
+    ],
+    "score": 0.9997,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "0305cc4988ac",
+    "file_name": "0305cc4988ac.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1654,
+        142
+      ],
+      [
+        1687,
+        142
+      ],
+      [
+        1685,
+        212
+      ],
+      [
+        1652,
+        212
+      ]
+    ],
+    "score": 0.9921,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "03759e1a3880",
+    "file_name": "03759e1a3880.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        336
+      ],
+      [
+        321,
+        336
+      ],
+      [
+        321,
+        406
+      ],
+      [
+        255,
+        406
+      ]
+    ],
+    "score": 0.9987,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "039482798393",
+    "file_name": "039482798393.pdf",
+    "text": "褚",
+    "bbox": [
+      [
+        142,
+        174
+      ],
+      [
+        230,
+        177
+      ],
+      [
+        227,
+        265
+      ],
+      [
+        139,
+        262
+      ]
+    ],
+    "score": 0.9976,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "03a7a696d8e5",
+    "file_name": "03a7a696d8e5.pdf",
+    "text": "娄",
+    "bbox": [
+      [
+        151,
+        183
+      ],
+      [
+        233,
+        183
+      ],
+      [
+        233,
+        263
+      ],
+      [
+        151,
+        263
+      ]
+    ],
+    "score": 0.9367,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "03af1ce17ac3",
+    "file_name": "03af1ce17ac3.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1657,
+        146
+      ],
+      [
+        1690,
+        146
+      ],
+      [
+        1689,
+        208
+      ],
+      [
+        1656,
+        208
+      ]
+    ],
+    "score": 0.97,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "04072b374ef8",
+    "file_name": "04072b374ef8.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        73
+      ],
+      [
+        870,
+        73
+      ],
+      [
+        870,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9969,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "0448c519f7f1",
+    "file_name": "0448c519f7f1.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        333
+      ],
+      [
+        321,
+        333
+      ],
+      [
+        321,
+        402
+      ],
+      [
+        255,
+        402
+      ]
+    ],
+    "score": 0.999,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "046794ddb166",
+    "file_name": "046794ddb166.pdf",
+    "text": "戚",
+    "bbox": [
+      [
+        234,
+        269
+      ],
+      [
+        342,
+        262
+      ],
+      [
+        350,
+        394
+      ],
+      [
+        242,
+        401
+      ]
+    ],
+    "score": 0.9893,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "047d7b917f34",
+    "file_name": "047d7b917f34.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        336
+      ],
+      [
+        321,
+        336
+      ],
+      [
+        321,
+        406
+      ],
+      [
+        255,
+        406
+      ]
+    ],
+    "score": 0.9987,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "04891776b0b6",
+    "file_name": "04891776b0b6.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        333
+      ],
+      [
+        321,
+        333
+      ],
+      [
+        321,
+        406
+      ],
+      [
+        255,
+        406
+      ]
+    ],
+    "score": 0.9993,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "04ac2fe5bb65",
+    "file_name": "04ac2fe5bb65.pdf",
+    "text": "薛",
+    "bbox": [
+      [
+        236,
+        267
+      ],
+      [
+        345,
+        267
+      ],
+      [
+        345,
+        398
+      ],
+      [
+        236,
+        398
+      ]
+    ],
+    "score": 0.9988,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "05994a53f0b3",
+    "file_name": "05994a53f0b3.pdf",
+    "text": "孔",
+    "bbox": [
+      [
+        1088,
+        139
+      ],
+      [
+        1202,
+        139
+      ],
+      [
+        1202,
+        252
+      ],
+      [
+        1088,
+        252
+      ]
+    ],
+    "score": 0.9969,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "05b28fa19cb6",
+    "file_name": "05b28fa19cb6.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        719,
+        260
+      ],
+      [
+        790,
+        260
+      ],
+      [
+        790,
+        344
+      ],
+      [
+        719,
+        344
+      ]
+    ],
+    "score": 0.9717,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "05be088302e8",
+    "file_name": "05be088302e8.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "05c80876b392",
+    "file_name": "05c80876b392.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        333
+      ],
+      [
+        321,
+        333
+      ],
+      [
+        321,
+        406
+      ],
+      [
+        255,
+        406
+      ]
+    ],
+    "score": 0.9993,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "05cbbcac2dd7",
+    "file_name": "05cbbcac2dd7.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        333
+      ],
+      [
+        321,
+        333
+      ],
+      [
+        321,
+        402
+      ],
+      [
+        255,
+        402
+      ]
+    ],
+    "score": 0.999,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "060eccbbf715",
+    "file_name": "060eccbbf715.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1654,
+        146
+      ],
+      [
+        1687,
+        146
+      ],
+      [
+        1685,
+        208
+      ],
+      [
+        1652,
+        208
+      ]
+    ],
+    "score": 0.9469,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "06ea442190e9",
+    "file_name": "06ea442190e9.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1654,
+        142
+      ],
+      [
+        1687,
+        142
+      ],
+      [
+        1685,
+        212
+      ],
+      [
+        1652,
+        212
+      ]
+    ],
+    "score": 0.9921,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "070546be3284",
+    "file_name": "070546be3284.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1113,
+        151
+      ],
+      [
+        1277,
+        159
+      ],
+      [
+        1268,
+        338
+      ],
+      [
+        1104,
+        330
+      ]
+    ],
+    "score": 0.9995,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "0718130c5820",
+    "file_name": "0718130c5820.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        719,
+        260
+      ],
+      [
+        785,
+        260
+      ],
+      [
+        785,
+        344
+      ],
+      [
+        719,
+        344
+      ]
+    ],
+    "score": 0.9408,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "076d17494064",
+    "file_name": "076d17494064.pdf",
+    "text": "项",
+    "bbox": [
+      [
+        144,
+        183
+      ],
+      [
+        230,
+        183
+      ],
+      [
+        230,
+        274
+      ],
+      [
+        144,
+        274
+      ]
+    ],
+    "score": 0.989,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "078175717ca0",
+    "file_name": "078175717ca0.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1152,
+        314
+      ],
+      [
+        1196,
+        314
+      ],
+      [
+        1196,
+        369
+      ],
+      [
+        1152,
+        369
+      ]
+    ],
+    "score": 0.9968,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "0794f8a96ad7",
+    "file_name": "0794f8a96ad7.pdf",
+    "text": "时",
+    "bbox": [
+      [
+        148,
+        175
+      ],
+      [
+        236,
+        175
+      ],
+      [
+        236,
+        274
+      ],
+      [
+        148,
+        274
+      ]
+    ],
+    "score": 0.9929,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "07a439a2b011",
+    "file_name": "07a439a2b011.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        333
+      ],
+      [
+        321,
+        333
+      ],
+      [
+        321,
+        402
+      ],
+      [
+        255,
+        402
+      ]
+    ],
+    "score": 0.999,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "07a8054989e6",
+    "file_name": "07a8054989e6.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1654,
+        146
+      ],
+      [
+        1687,
+        146
+      ],
+      [
+        1685,
+        208
+      ],
+      [
+        1652,
+        208
+      ]
+    ],
+    "score": 0.9729,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "07d849fd6c53",
+    "file_name": "07d849fd6c53.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "07e2b5de5a50",
+    "file_name": "07e2b5de5a50.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1152,
+        318
+      ],
+      [
+        1196,
+        318
+      ],
+      [
+        1196,
+        369
+      ],
+      [
+        1152,
+        369
+      ]
+    ],
+    "score": 0.9962,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "07fea6bf497b",
+    "file_name": "07fea6bf497b.pdf",
+    "text": "祁",
+    "bbox": [
+      [
+        1029,
+        132
+      ],
+      [
+        1142,
+        132
+      ],
+      [
+        1142,
+        249
+      ],
+      [
+        1029,
+        249
+      ]
+    ],
+    "score": 0.9985,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "081bfbdfaded",
+    "file_name": "081bfbdfaded.pdf",
+    "text": "穆",
+    "bbox": [
+      [
+        1091,
+        138
+      ],
+      [
+        1201,
+        142
+      ],
+      [
+        1196,
+        241
+      ],
+      [
+        1087,
+        236
+      ]
+    ],
+    "score": 0.9906,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "082bf6eab40f",
+    "file_name": "082bf6eab40f.pdf",
+    "text": "水",
+    "bbox": [
+      [
+        144,
+        179
+      ],
+      [
+        231,
+        179
+      ],
+      [
+        231,
+        274
+      ],
+      [
+        144,
+        274
+      ]
+    ],
+    "score": 0.9993,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "083a54fa877a",
+    "file_name": "083a54fa877a.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        716,
+        260
+      ],
+      [
+        787,
+        259
+      ],
+      [
+        787,
+        343
+      ],
+      [
+        716,
+        344
+      ]
+    ],
+    "score": 0.9656,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "0862ad419a6a",
+    "file_name": "0862ad419a6a.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        716,
+        260
+      ],
+      [
+        787,
+        260
+      ],
+      [
+        787,
+        344
+      ],
+      [
+        716,
+        344
+      ]
+    ],
+    "score": 0.9744,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "08975df57e84",
+    "file_name": "08975df57e84.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "089cd0234d5f",
+    "file_name": "089cd0234d5f.pdf",
+    "text": "康",
+    "bbox": [
+      [
+        240,
+        270
+      ],
+      [
+        347,
+        270
+      ],
+      [
+        347,
+        395
+      ],
+      [
+        240,
+        395
+      ]
+    ],
+    "score": 0.9998,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "090752b3b4b9",
+    "file_name": "090752b3b4b9.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        606,
+        318
+      ],
+      [
+        606,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9987,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "09148bead6c0",
+    "file_name": "09148bead6c0.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        73
+      ],
+      [
+        870,
+        73
+      ],
+      [
+        870,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9969,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "09746c18efaa",
+    "file_name": "09746c18efaa.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        336
+      ],
+      [
+        321,
+        336
+      ],
+      [
+        321,
+        406
+      ],
+      [
+        255,
+        406
+      ]
+    ],
+    "score": 0.9987,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "098366dbab08",
+    "file_name": "098366dbab08.pdf",
+    "text": "闵",
+    "bbox": [
+      [
+        240,
+        267
+      ],
+      [
+        350,
+        267
+      ],
+      [
+        350,
+        391
+      ],
+      [
+        240,
+        391
+      ]
+    ],
+    "score": 0.9996,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "099715b681a2",
+    "file_name": "099715b681a2.pdf",
+    "text": "苗",
+    "bbox": [
+      [
+        233,
+        259
+      ],
+      [
+        349,
+        259
+      ],
+      [
+        349,
+        398
+      ],
+      [
+        233,
+        398
+      ]
+    ],
+    "score": 0.9989,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "09b0df722a9d",
+    "file_name": "09b0df722a9d.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1654,
+        142
+      ],
+      [
+        1687,
+        142
+      ],
+      [
+        1685,
+        212
+      ],
+      [
+        1652,
+        212
+      ]
+    ],
+    "score": 0.9928,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "09ea5c6cfdbf",
+    "file_name": "09ea5c6cfdbf.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1654,
+        146
+      ],
+      [
+        1687,
+        146
+      ],
+      [
+        1685,
+        208
+      ],
+      [
+        1652,
+        208
+      ]
+    ],
+    "score": 0.9512,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "0a2df74bbc31",
+    "file_name": "0a2df74bbc31.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1654,
+        146
+      ],
+      [
+        1687,
+        146
+      ],
+      [
+        1685,
+        208
+      ],
+      [
+        1652,
+        208
+      ]
+    ],
+    "score": 0.9739,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "0a795895e08a",
+    "file_name": "0a795895e08a.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1654,
+        146
+      ],
+      [
+        1687,
+        146
+      ],
+      [
+        1685,
+        208
+      ],
+      [
+        1652,
+        208
+      ]
+    ],
+    "score": 0.9729,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "0a8de09be1dc",
+    "file_name": "0a8de09be1dc.pdf",
+    "text": "姚",
+    "bbox": [
+      [
+        1078,
+        123
+      ],
+      [
+        1204,
+        128
+      ],
+      [
+        1198,
+        267
+      ],
+      [
+        1072,
+        262
+      ]
+    ],
+    "score": 0.9977,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "0ac186229aa0",
+    "file_name": "0ac186229aa0.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        719,
+        260
+      ],
+      [
+        785,
+        260
+      ],
+      [
+        785,
+        344
+      ],
+      [
+        719,
+        344
+      ]
+    ],
+    "score": 0.9408,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "0ac4e25ad645",
+    "file_name": "0ac4e25ad645.pdf",
+    "text": "卜",
+    "bbox": [
+      [
+        1121,
+        143
+      ],
+      [
+        1219,
+        143
+      ],
+      [
+        1219,
+        238
+      ],
+      [
+        1121,
+        238
+      ]
+    ],
+    "score": 0.9974,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "0aee98c8a561",
+    "file_name": "0aee98c8a561.pdf",
+    "text": "吕",
+    "bbox": [
+      [
+        1036,
+        132
+      ],
+      [
+        1148,
+        129
+      ],
+      [
+        1151,
+        265
+      ],
+      [
+        1039,
+        268
+      ]
+    ],
+    "score": 0.9966,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "0b3915da3907",
+    "file_name": "0b3915da3907.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        333
+      ],
+      [
+        321,
+        333
+      ],
+      [
+        321,
+        402
+      ],
+      [
+        255,
+        402
+      ]
+    ],
+    "score": 0.999,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "0b5233e7a638",
+    "file_name": "0b5233e7a638.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        716,
+        260
+      ],
+      [
+        782,
+        259
+      ],
+      [
+        782,
+        343
+      ],
+      [
+        716,
+        344
+      ]
+    ],
+    "score": 0.9224,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "0ba6300a26c5",
+    "file_name": "0ba6300a26c5.pdf",
+    "text": "卫",
+    "bbox": [
+      [
+        151,
+        183
+      ],
+      [
+        234,
+        183
+      ],
+      [
+        234,
+        263
+      ],
+      [
+        151,
+        263
+      ]
+    ],
+    "score": 0.9972,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "0bc0a0dc8a03",
+    "file_name": "0bc0a0dc8a03.pdf",
+    "text": "茅",
+    "bbox": [
+      [
+        1035,
+        134
+      ],
+      [
+        1146,
+        137
+      ],
+      [
+        1143,
+        247
+      ],
+      [
+        1032,
+        244
+      ]
+    ],
+    "score": 0.9542,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "0bfdfb5cede0",
+    "file_name": "0bfdfb5cede0.pdf",
+    "text": "韩",
+    "bbox": [
+      [
+        233,
+        267
+      ],
+      [
+        347,
+        267
+      ],
+      [
+        347,
+        395
+      ],
+      [
+        233,
+        395
+      ]
+    ],
+    "score": 1.0,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "0c0a2519adff",
+    "file_name": "0c0a2519adff.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        716,
+        256
+      ],
+      [
+        787,
+        256
+      ],
+      [
+        787,
+        340
+      ],
+      [
+        716,
+        340
+      ]
+    ],
+    "score": 0.977,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "0c0d1adb4698",
+    "file_name": "0c0d1adb4698.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "0c8b004b8b4b",
+    "file_name": "0c8b004b8b4b.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        336
+      ],
+      [
+        321,
+        336
+      ],
+      [
+        321,
+        406
+      ],
+      [
+        255,
+        406
+      ]
+    ],
+    "score": 0.9987,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "0c9c7d0b1170",
+    "file_name": "0c9c7d0b1170.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        69
+      ],
+      [
+        870,
+        69
+      ],
+      [
+        870,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9985,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "0cb1f40caf07",
+    "file_name": "0cb1f40caf07.pdf",
+    "text": "毕",
+    "bbox": [
+      [
+        188,
+        358
+      ],
+      [
+        232,
+        358
+      ],
+      [
+        232,
+        409
+      ],
+      [
+        188,
+        409
+      ]
+    ],
+    "score": 0.9816,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "0cd92051a9b6",
+    "file_name": "0cd92051a9b6.pdf",
+    "text": "秦",
+    "bbox": [
+      [
+        233,
+        267
+      ],
+      [
+        347,
+        267
+      ],
+      [
+        347,
+        395
+      ],
+      [
+        233,
+        395
+      ]
+    ],
+    "score": 0.9915,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "0cefc2f0cccf",
+    "file_name": "0cefc2f0cccf.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "0d099f8b9a7a",
+    "file_name": "0d099f8b9a7a.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1152,
+        318
+      ],
+      [
+        1196,
+        318
+      ],
+      [
+        1196,
+        373
+      ],
+      [
+        1152,
+        373
+      ]
+    ],
+    "score": 0.9958,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "0d0ce106c131",
+    "file_name": "0d0ce106c131.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1654,
+        142
+      ],
+      [
+        1687,
+        142
+      ],
+      [
+        1685,
+        212
+      ],
+      [
+        1652,
+        212
+      ]
+    ],
+    "score": 0.989,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "0d28f1a59e01",
+    "file_name": "0d28f1a59e01.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "0d2cce6f0de6",
+    "file_name": "0d2cce6f0de6.pdf",
+    "text": "方",
+    "bbox": [
+      [
+        233,
+        267
+      ],
+      [
+        347,
+        267
+      ],
+      [
+        347,
+        391
+      ],
+      [
+        233,
+        391
+      ]
+    ],
+    "score": 0.9987,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "0d578da00cfb",
+    "file_name": "0d578da00cfb.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1152,
+        318
+      ],
+      [
+        1196,
+        318
+      ],
+      [
+        1196,
+        369
+      ],
+      [
+        1152,
+        369
+      ]
+    ],
+    "score": 0.9962,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "0d6efd507554",
+    "file_name": "0d6efd507554.pdf",
+    "text": "计",
+    "bbox": [
+      [
+        146,
+        178
+      ],
+      [
+        231,
+        181
+      ],
+      [
+        228,
+        262
+      ],
+      [
+        143,
+        259
+      ]
+    ],
+    "score": 0.9986,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "0dbadf51adb4",
+    "file_name": "0dbadf51adb4.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        716,
+        260
+      ],
+      [
+        787,
+        260
+      ],
+      [
+        787,
+        344
+      ],
+      [
+        716,
+        344
+      ]
+    ],
+    "score": 0.9737,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "0dedfe53f7ac",
+    "file_name": "0dedfe53f7ac.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        719,
+        260
+      ],
+      [
+        785,
+        260
+      ],
+      [
+        785,
+        344
+      ],
+      [
+        719,
+        344
+      ]
+    ],
+    "score": 0.9408,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "0e19830f79a6",
+    "file_name": "0e19830f79a6.pdf",
+    "text": "郎",
+    "bbox": [
+      [
+        555,
+        320
+      ],
+      [
+        619,
+        325
+      ],
+      [
+        613,
+        402
+      ],
+      [
+        548,
+        397
+      ]
+    ],
+    "score": 0.9998,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "0e338a49c435",
+    "file_name": "0e338a49c435.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1113,
+        177
+      ],
+      [
+        1279,
+        184
+      ],
+      [
+        1270,
+        363
+      ],
+      [
+        1104,
+        356
+      ]
+    ],
+    "score": 0.9994,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "0e9182529e95",
+    "file_name": "0e9182529e95.pdf",
+    "text": "尤",
+    "bbox": [
+      [
+        236,
+        259
+      ],
+      [
+        347,
+        259
+      ],
+      [
+        347,
+        391
+      ],
+      [
+        236,
+        391
+      ]
+    ],
+    "score": 0.998,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "0ebd6cfd45fa",
+    "file_name": "0ebd6cfd45fa.pdf",
+    "text": "狄",
+    "bbox": [
+      [
+        233,
+        270
+      ],
+      [
+        342,
+        270
+      ],
+      [
+        342,
+        391
+      ],
+      [
+        233,
+        391
+      ]
+    ],
+    "score": 0.9987,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "0f44e6092adf",
+    "file_name": "0f44e6092adf.pdf",
+    "text": "金",
+    "bbox": [
+      [
+        1092,
+        134
+      ],
+      [
+        1205,
+        139
+      ],
+      [
+        1200,
+        252
+      ],
+      [
+        1087,
+        247
+      ]
+    ],
+    "score": 0.9982,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "0f5198167eeb",
+    "file_name": "0f5198167eeb.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "0f65615b96ab",
+    "file_name": "0f65615b96ab.pdf",
+    "text": "葛",
+    "bbox": [
+      [
+        1107,
+        150
+      ],
+      [
+        1203,
+        150
+      ],
+      [
+        1203,
+        216
+      ],
+      [
+        1107,
+        216
+      ]
+    ],
+    "score": 0.5296,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "0fa73714b05b",
+    "file_name": "0fa73714b05b.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        73
+      ],
+      [
+        870,
+        73
+      ],
+      [
+        870,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9969,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "0ff34bab3978",
+    "file_name": "0ff34bab3978.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1654,
+        142
+      ],
+      [
+        1687,
+        142
+      ],
+      [
+        1685,
+        212
+      ],
+      [
+        1652,
+        212
+      ]
+    ],
+    "score": 0.989,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "102976ffa65c",
+    "file_name": "102976ffa65c.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1113,
+        122
+      ],
+      [
+        1279,
+        129
+      ],
+      [
+        1270,
+        309
+      ],
+      [
+        1104,
+        301
+      ]
+    ],
+    "score": 0.9995,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "1046cc6d1e18",
+    "file_name": "1046cc6d1e18.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        719,
+        256
+      ],
+      [
+        785,
+        256
+      ],
+      [
+        785,
+        340
+      ],
+      [
+        719,
+        340
+      ]
+    ],
+    "score": 0.9442,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "104c9da0342c",
+    "file_name": "104c9da0342c.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        73
+      ],
+      [
+        870,
+        73
+      ],
+      [
+        870,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9969,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "10873d579960",
+    "file_name": "10873d579960.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1654,
+        146
+      ],
+      [
+        1687,
+        146
+      ],
+      [
+        1685,
+        208
+      ],
+      [
+        1652,
+        208
+      ]
+    ],
+    "score": 0.9739,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "108a5532c3ec",
+    "file_name": "108a5532c3ec.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1650,
+        138
+      ],
+      [
+        1684,
+        138
+      ],
+      [
+        1682,
+        211
+      ],
+      [
+        1648,
+        211
+      ]
+    ],
+    "score": 0.9909,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "10905d521bee",
+    "file_name": "10905d521bee.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        69
+      ],
+      [
+        870,
+        69
+      ],
+      [
+        870,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9985,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "10b40c7a6080",
+    "file_name": "10b40c7a6080.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1113,
+        177
+      ],
+      [
+        1277,
+        184
+      ],
+      [
+        1268,
+        364
+      ],
+      [
+        1104,
+        356
+      ]
+    ],
+    "score": 0.9991,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "10c3fbd257b8",
+    "file_name": "10c3fbd257b8.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1651,
+        134
+      ],
+      [
+        1685,
+        135
+      ],
+      [
+        1682,
+        212
+      ],
+      [
+        1648,
+        211
+      ]
+    ],
+    "score": 0.9813,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "10e625d89aa8",
+    "file_name": "10e625d89aa8.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        719,
+        263
+      ],
+      [
+        785,
+        262
+      ],
+      [
+        786,
+        339
+      ],
+      [
+        720,
+        340
+      ]
+    ],
+    "score": 0.9448,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "10fa2a4835c9",
+    "file_name": "10fa2a4835c9.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1654,
+        142
+      ],
+      [
+        1687,
+        142
+      ],
+      [
+        1685,
+        212
+      ],
+      [
+        1652,
+        212
+      ]
+    ],
+    "score": 0.989,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "114a251d1975",
+    "file_name": "114a251d1975.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1657,
+        146
+      ],
+      [
+        1690,
+        146
+      ],
+      [
+        1689,
+        208
+      ],
+      [
+        1656,
+        208
+      ]
+    ],
+    "score": 0.9661,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "11726290a06e",
+    "file_name": "11726290a06e.pdf",
+    "text": "金",
+    "bbox": [
+      [
+        229,
+        259
+      ],
+      [
+        347,
+        259
+      ],
+      [
+        347,
+        398
+      ],
+      [
+        229,
+        398
+      ]
+    ],
+    "score": 0.9988,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "1199855223ef",
+    "file_name": "1199855223ef.pdf",
+    "text": "何",
+    "bbox": [
+      [
+        1024,
+        123
+      ],
+      [
+        1141,
+        126
+      ],
+      [
+        1138,
+        258
+      ],
+      [
+        1021,
+        255
+      ]
+    ],
+    "score": 0.9902,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "119cfaf8e104",
+    "file_name": "119cfaf8e104.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1152,
+        318
+      ],
+      [
+        1196,
+        318
+      ],
+      [
+        1196,
+        369
+      ],
+      [
+        1152,
+        369
+      ]
+    ],
+    "score": 0.9962,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "11bb47e115b0",
+    "file_name": "11bb47e115b0.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1152,
+        318
+      ],
+      [
+        1196,
+        318
+      ],
+      [
+        1196,
+        369
+      ],
+      [
+        1152,
+        369
+      ]
+    ],
+    "score": 0.9962,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "11c373c9fda2",
+    "file_name": "11c373c9fda2.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1654,
+        142
+      ],
+      [
+        1687,
+        142
+      ],
+      [
+        1685,
+        212
+      ],
+      [
+        1652,
+        212
+      ]
+    ],
+    "score": 0.9931,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "11d0c73473f0",
+    "file_name": "11d0c73473f0.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "126bd645031f",
+    "file_name": "126bd645031f.pdf",
+    "text": "冯",
+    "bbox": [
+      [
+        1088,
+        139
+      ],
+      [
+        1202,
+        139
+      ],
+      [
+        1202,
+        252
+      ],
+      [
+        1088,
+        252
+      ]
+    ],
+    "score": 0.9981,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "126f40be8575",
+    "file_name": "126f40be8575.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1657,
+        146
+      ],
+      [
+        1690,
+        146
+      ],
+      [
+        1689,
+        208
+      ],
+      [
+        1656,
+        208
+      ]
+    ],
+    "score": 0.9589,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "127014cf00fa",
+    "file_name": "127014cf00fa.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        73
+      ],
+      [
+        870,
+        73
+      ],
+      [
+        870,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9969,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "12e94b67106b",
+    "file_name": "12e94b67106b.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1112,
+        105
+      ],
+      [
+        1278,
+        112
+      ],
+      [
+        1271,
+        291
+      ],
+      [
+        1105,
+        284
+      ]
+    ],
+    "score": 0.9996,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "13054eb4dcc3",
+    "file_name": "13054eb4dcc3.pdf",
+    "text": "金",
+    "bbox": [
+      [
+        148,
+        179
+      ],
+      [
+        234,
+        179
+      ],
+      [
+        234,
+        274
+      ],
+      [
+        148,
+        274
+      ]
+    ],
+    "score": 0.9982,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "130af5d39d7c",
+    "file_name": "130af5d39d7c.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1110,
+        175
+      ],
+      [
+        1276,
+        175
+      ],
+      [
+        1276,
+        355
+      ],
+      [
+        1110,
+        355
+      ]
+    ],
+    "score": 0.9997,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "137928e2f22e",
+    "file_name": "137928e2f22e.pdf",
+    "text": "葛",
+    "bbox": [
+      [
+        144,
+        175
+      ],
+      [
+        232,
+        175
+      ],
+      [
+        232,
+        274
+      ],
+      [
+        144,
+        274
+      ]
+    ],
+    "score": 0.9995,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "13d07f869a2d",
+    "file_name": "13d07f869a2d.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        719,
+        260
+      ],
+      [
+        790,
+        260
+      ],
+      [
+        790,
+        344
+      ],
+      [
+        719,
+        344
+      ]
+    ],
+    "score": 0.973,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "13e391559357",
+    "file_name": "13e391559357.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        336
+      ],
+      [
+        321,
+        336
+      ],
+      [
+        321,
+        406
+      ],
+      [
+        255,
+        406
+      ]
+    ],
+    "score": 0.9987,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "13f7fbb6aac7",
+    "file_name": "13f7fbb6aac7.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "140b324a57ba",
+    "file_name": "140b324a57ba.pdf",
+    "text": "毕",
+    "bbox": [
+      [
+        151,
+        179
+      ],
+      [
+        234,
+        179
+      ],
+      [
+        234,
+        263
+      ],
+      [
+        151,
+        263
+      ]
+    ],
+    "score": 0.9859,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "1437441a4776",
+    "file_name": "1437441a4776.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        716,
+        260
+      ],
+      [
+        787,
+        260
+      ],
+      [
+        787,
+        344
+      ],
+      [
+        716,
+        344
+      ]
+    ],
+    "score": 0.9744,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "1439dee929f5",
+    "file_name": "1439dee929f5.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        69
+      ],
+      [
+        871,
+        69
+      ],
+      [
+        871,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9978,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "143cfaa41245",
+    "file_name": "143cfaa41245.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1654,
+        142
+      ],
+      [
+        1687,
+        142
+      ],
+      [
+        1685,
+        212
+      ],
+      [
+        1652,
+        212
+      ]
+    ],
+    "score": 0.9677,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "14614472787d",
+    "file_name": "14614472787d.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1152,
+        318
+      ],
+      [
+        1196,
+        318
+      ],
+      [
+        1196,
+        373
+      ],
+      [
+        1152,
+        373
+      ]
+    ],
+    "score": 0.9958,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "14b826eacad2",
+    "file_name": "14b826eacad2.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1110,
+        128
+      ],
+      [
+        1274,
+        128
+      ],
+      [
+        1274,
+        307
+      ],
+      [
+        1110,
+        307
+      ]
+    ],
+    "score": 0.9996,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "14c15d929cd8",
+    "file_name": "14c15d929cd8.pdf",
+    "text": "褚",
+    "bbox": [
+      [
+        1081,
+        132
+      ],
+      [
+        1201,
+        132
+      ],
+      [
+        1201,
+        260
+      ],
+      [
+        1081,
+        260
+      ]
+    ],
+    "score": 0.9989,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "14d7f5668853",
+    "file_name": "14d7f5668853.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "1540795e2549",
+    "file_name": "1540795e2549.pdf",
+    "text": "戴",
+    "bbox": [
+      [
+        1033,
+        135
+      ],
+      [
+        1202,
+        135
+      ],
+      [
+        1202,
+        256
+      ],
+      [
+        1033,
+        256
+      ]
+    ],
+    "score": 0.9954,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "15baf8c41e27",
+    "file_name": "15baf8c41e27.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1657,
+        146
+      ],
+      [
+        1690,
+        146
+      ],
+      [
+        1689,
+        208
+      ],
+      [
+        1656,
+        208
+      ]
+    ],
+    "score": 0.9603,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "1602c1e841e6",
+    "file_name": "1602c1e841e6.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "161ccd481bbc",
+    "file_name": "161ccd481bbc.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        336
+      ],
+      [
+        321,
+        336
+      ],
+      [
+        321,
+        406
+      ],
+      [
+        255,
+        406
+      ]
+    ],
+    "score": 0.9987,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "16260f375e92",
+    "file_name": "16260f375e92.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "16639abdf51c",
+    "file_name": "16639abdf51c.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        716,
+        260
+      ],
+      [
+        782,
+        260
+      ],
+      [
+        782,
+        344
+      ],
+      [
+        716,
+        344
+      ]
+    ],
+    "score": 0.9297,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "167cb0de9d61",
+    "file_name": "167cb0de9d61.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1113,
+        177
+      ],
+      [
+        1277,
+        184
+      ],
+      [
+        1268,
+        364
+      ],
+      [
+        1104,
+        356
+      ]
+    ],
+    "score": 0.9991,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "17088f6326da",
+    "file_name": "17088f6326da.pdf",
+    "text": "余",
+    "bbox": [
+      [
+        229,
+        259
+      ],
+      [
+        347,
+        259
+      ],
+      [
+        347,
+        398
+      ],
+      [
+        229,
+        398
+      ]
+    ],
+    "score": 0.9878,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "174eda13ed7a",
+    "file_name": "174eda13ed7a.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        66
+      ],
+      [
+        871,
+        66
+      ],
+      [
+        871,
+        131
+      ],
+      [
+        816,
+        131
+      ]
+    ],
+    "score": 0.9969,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "17882789699d",
+    "file_name": "17882789699d.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1124,
+        137
+      ],
+      [
+        1281,
+        144
+      ],
+      [
+        1272,
+        312
+      ],
+      [
+        1115,
+        305
+      ]
+    ],
+    "score": 0.9992,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "17b161915769",
+    "file_name": "17b161915769.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        716,
+        260
+      ],
+      [
+        787,
+        260
+      ],
+      [
+        787,
+        344
+      ],
+      [
+        716,
+        344
+      ]
+    ],
+    "score": 0.9747,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "17e7d09d6bbe",
+    "file_name": "17e7d09d6bbe.pdf",
+    "text": "穆",
+    "bbox": [
+      [
+        1029,
+        135
+      ],
+      [
+        1143,
+        135
+      ],
+      [
+        1143,
+        256
+      ],
+      [
+        1029,
+        256
+      ]
+    ],
+    "score": 0.9943,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "17f0e30005b7",
+    "file_name": "17f0e30005b7.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1116,
+        177
+      ],
+      [
+        1279,
+        184
+      ],
+      [
+        1270,
+        364
+      ],
+      [
+        1108,
+        356
+      ]
+    ],
+    "score": 0.9998,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "180a81605780",
+    "file_name": "180a81605780.pdf",
+    "text": "钱",
+    "bbox": [
+      [
+        1024,
+        127
+      ],
+      [
+        1141,
+        130
+      ],
+      [
+        1138,
+        262
+      ],
+      [
+        1021,
+        259
+      ]
+    ],
+    "score": 0.9968,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "180b6ae38e78",
+    "file_name": "180b6ae38e78.pdf",
+    "text": "顾",
+    "bbox": [
+      [
+        151,
+        183
+      ],
+      [
+        234,
+        183
+      ],
+      [
+        234,
+        263
+      ],
+      [
+        151,
+        263
+      ]
+    ],
+    "score": 0.9988,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "183f30bd0afe",
+    "file_name": "183f30bd0afe.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        719,
+        260
+      ],
+      [
+        785,
+        260
+      ],
+      [
+        785,
+        344
+      ],
+      [
+        719,
+        344
+      ]
+    ],
+    "score": 0.9408,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "18785ad4c37e",
+    "file_name": "18785ad4c37e.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        812,
+        73
+      ],
+      [
+        867,
+        73
+      ],
+      [
+        867,
+        135
+      ],
+      [
+        812,
+        135
+      ]
+    ],
+    "score": 0.9979,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "18806646c02e",
+    "file_name": "18806646c02e.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "188941c7561f",
+    "file_name": "188941c7561f.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "189ab73259f1",
+    "file_name": "189ab73259f1.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        73
+      ],
+      [
+        870,
+        73
+      ],
+      [
+        870,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9969,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "1920dd173ff6",
+    "file_name": "1920dd173ff6.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1152,
+        318
+      ],
+      [
+        1196,
+        318
+      ],
+      [
+        1196,
+        369
+      ],
+      [
+        1152,
+        369
+      ]
+    ],
+    "score": 0.9962,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "1927b18f0daa",
+    "file_name": "1927b18f0daa.pdf",
+    "text": "伏",
+    "bbox": [
+      [
+        148,
+        179
+      ],
+      [
+        232,
+        179
+      ],
+      [
+        232,
+        274
+      ],
+      [
+        148,
+        274
+      ]
+    ],
+    "score": 0.9993,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "1931690fa9ce",
+    "file_name": "1931690fa9ce.pdf",
+    "text": "顾",
+    "bbox": [
+      [
+        148,
+        179
+      ],
+      [
+        234,
+        179
+      ],
+      [
+        234,
+        274
+      ],
+      [
+        148,
+        274
+      ]
+    ],
+    "score": 0.999,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "1945e4d19a39",
+    "file_name": "1945e4d19a39.pdf",
+    "text": "姚",
+    "bbox": [
+      [
+        1081,
+        132
+      ],
+      [
+        1201,
+        132
+      ],
+      [
+        1201,
+        260
+      ],
+      [
+        1081,
+        260
+      ]
+    ],
+    "score": 0.999,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "1965f59320bc",
+    "file_name": "1965f59320bc.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "1966bb411343",
+    "file_name": "1966bb411343.pdf",
+    "text": "严",
+    "bbox": [
+      [
+        144,
+        175
+      ],
+      [
+        234,
+        175
+      ],
+      [
+        234,
+        274
+      ],
+      [
+        144,
+        274
+      ]
+    ],
+    "score": 0.9996,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "1980d97a81db",
+    "file_name": "1980d97a81db.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1156,
+        318
+      ],
+      [
+        1200,
+        318
+      ],
+      [
+        1200,
+        373
+      ],
+      [
+        1156,
+        373
+      ]
+    ],
+    "score": 0.9954,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "1992bf1b4489",
+    "file_name": "1992bf1b4489.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1116,
+        177
+      ],
+      [
+        1279,
+        184
+      ],
+      [
+        1270,
+        364
+      ],
+      [
+        1108,
+        356
+      ]
+    ],
+    "score": 0.9998,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "19c7a978c2ca",
+    "file_name": "19c7a978c2ca.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1112,
+        175
+      ],
+      [
+        1278,
+        181
+      ],
+      [
+        1271,
+        364
+      ],
+      [
+        1105,
+        358
+      ]
+    ],
+    "score": 0.9998,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "19c84bbd88b4",
+    "file_name": "19c84bbd88b4.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1654,
+        146
+      ],
+      [
+        1687,
+        146
+      ],
+      [
+        1685,
+        208
+      ],
+      [
+        1652,
+        208
+      ]
+    ],
+    "score": 0.9557,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "19e3292303e4",
+    "file_name": "19e3292303e4.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1152,
+        318
+      ],
+      [
+        1196,
+        318
+      ],
+      [
+        1196,
+        373
+      ],
+      [
+        1152,
+        373
+      ]
+    ],
+    "score": 0.9958,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "19ec3f19e98b",
+    "file_name": "19ec3f19e98b.pdf",
+    "text": "下",
+    "bbox": [
+      [
+        258,
+        270
+      ],
+      [
+        358,
+        270
+      ],
+      [
+        358,
+        387
+      ],
+      [
+        258,
+        387
+      ]
+    ],
+    "score": 0.6745,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "1a016cba09ef",
+    "file_name": "1a016cba09ef.pdf",
+    "text": "电",
+    "bbox": [
+      [
+        148,
+        325
+      ],
+      [
+        178,
+        325
+      ],
+      [
+        178,
+        376
+      ],
+      [
+        148,
+        376
+      ]
+    ],
+    "score": 0.9988,
+    "label": "PHONE"
+  },
+  {
+    "resume_id": "1a251cb90c6d",
+    "file_name": "1a251cb90c6d.pdf",
+    "text": "计",
+    "bbox": [
+      [
+        1028,
+        127
+      ],
+      [
+        1143,
+        130
+      ],
+      [
+        1140,
+        251
+      ],
+      [
+        1025,
+        248
+      ]
+    ],
+    "score": 0.9974,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "1a261a18dd0f",
+    "file_name": "1a261a18dd0f.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "1a3c51bb928c",
+    "file_name": "1a3c51bb928c.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        716,
+        260
+      ],
+      [
+        787,
+        260
+      ],
+      [
+        787,
+        344
+      ],
+      [
+        716,
+        344
+      ]
+    ],
+    "score": 0.9744,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "1a3d3f42d8c3",
+    "file_name": "1a3d3f42d8c3.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1113,
+        177
+      ],
+      [
+        1277,
+        184
+      ],
+      [
+        1268,
+        364
+      ],
+      [
+        1104,
+        356
+      ]
+    ],
+    "score": 0.9991,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "1a739d65e070",
+    "file_name": "1a739d65e070.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        73
+      ],
+      [
+        870,
+        73
+      ],
+      [
+        870,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9969,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "1a7bda16462d",
+    "file_name": "1a7bda16462d.pdf",
+    "text": "皮",
+    "bbox": [
+      [
+        151,
+        179
+      ],
+      [
+        233,
+        179
+      ],
+      [
+        233,
+        274
+      ],
+      [
+        151,
+        274
+      ]
+    ],
+    "score": 0.9994,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "1a884d37048e",
+    "file_name": "1a884d37048e.pdf",
+    "text": "褚",
+    "bbox": [
+      [
+        233,
+        267
+      ],
+      [
+        347,
+        267
+      ],
+      [
+        347,
+        395
+      ],
+      [
+        233,
+        395
+      ]
+    ],
+    "score": 0.9963,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "1ad01e60ab29",
+    "file_name": "1ad01e60ab29.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1654,
+        146
+      ],
+      [
+        1687,
+        146
+      ],
+      [
+        1685,
+        208
+      ],
+      [
+        1652,
+        208
+      ]
+    ],
+    "score": 0.9739,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "1b03bf0c02b7",
+    "file_name": "1b03bf0c02b7.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "1b50eab8a467",
+    "file_name": "1b50eab8a467.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        336
+      ],
+      [
+        321,
+        336
+      ],
+      [
+        321,
+        406
+      ],
+      [
+        255,
+        406
+      ]
+    ],
+    "score": 0.9987,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "1b61aa9a6ed5",
+    "file_name": "1b61aa9a6ed5.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1657,
+        146
+      ],
+      [
+        1690,
+        146
+      ],
+      [
+        1689,
+        208
+      ],
+      [
+        1656,
+        208
+      ]
+    ],
+    "score": 0.9652,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "1c059960853b",
+    "file_name": "1c059960853b.pdf",
+    "text": "湛",
+    "bbox": [
+      [
+        233,
+        267
+      ],
+      [
+        347,
+        267
+      ],
+      [
+        347,
+        395
+      ],
+      [
+        233,
+        395
+      ]
+    ],
+    "score": 0.9995,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "1c98eeaf3174",
+    "file_name": "1c98eeaf3174.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        336
+      ],
+      [
+        321,
+        336
+      ],
+      [
+        321,
+        406
+      ],
+      [
+        255,
+        406
+      ]
+    ],
+    "score": 0.9987,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "1ca0534a05f1",
+    "file_name": "1ca0534a05f1.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1152,
+        318
+      ],
+      [
+        1196,
+        318
+      ],
+      [
+        1196,
+        373
+      ],
+      [
+        1152,
+        373
+      ]
+    ],
+    "score": 0.9958,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "1cb2cb101eea",
+    "file_name": "1cb2cb101eea.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        69
+      ],
+      [
+        870,
+        69
+      ],
+      [
+        870,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9985,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "1ce65d267ac4",
+    "file_name": "1ce65d267ac4.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        719,
+        260
+      ],
+      [
+        790,
+        260
+      ],
+      [
+        790,
+        344
+      ],
+      [
+        719,
+        344
+      ]
+    ],
+    "score": 0.9749,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "1d63383d9c11",
+    "file_name": "1d63383d9c11.pdf",
+    "text": "贝",
+    "bbox": [
+      [
+        244,
+        270
+      ],
+      [
+        347,
+        270
+      ],
+      [
+        347,
+        391
+      ],
+      [
+        244,
+        391
+      ]
+    ],
+    "score": 0.9979,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "1d678e63012e",
+    "file_name": "1d678e63012e.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        324
+      ],
+      [
+        322,
+        329
+      ],
+      [
+        316,
+        402
+      ],
+      [
+        249,
+        397
+      ]
+    ],
+    "score": 0.9987,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "1d787b05ac3a",
+    "file_name": "1d787b05ac3a.pdf",
+    "text": "余",
+    "bbox": [
+      [
+        229,
+        259
+      ],
+      [
+        347,
+        259
+      ],
+      [
+        347,
+        398
+      ],
+      [
+        229,
+        398
+      ]
+    ],
+    "score": 0.9718,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "1d8ab3196bd9",
+    "file_name": "1d8ab3196bd9.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        807,
+        70
+      ],
+      [
+        864,
+        67
+      ],
+      [
+        867,
+        144
+      ],
+      [
+        810,
+        147
+      ]
+    ],
+    "score": 0.9949,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "1da7ea58191d",
+    "file_name": "1da7ea58191d.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1110,
+        150
+      ],
+      [
+        1276,
+        150
+      ],
+      [
+        1276,
+        329
+      ],
+      [
+        1110,
+        329
+      ]
+    ],
+    "score": 0.9992,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "1da86d58de28",
+    "file_name": "1da86d58de28.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1152,
+        318
+      ],
+      [
+        1196,
+        318
+      ],
+      [
+        1196,
+        369
+      ],
+      [
+        1152,
+        369
+      ]
+    ],
+    "score": 0.9962,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "1dbc9dfb6e90",
+    "file_name": "1dbc9dfb6e90.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        333
+      ],
+      [
+        321,
+        333
+      ],
+      [
+        321,
+        402
+      ],
+      [
+        255,
+        402
+      ]
+    ],
+    "score": 0.999,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "1dcdc3c87663",
+    "file_name": "1dcdc3c87663.pdf",
+    "text": "葛",
+    "bbox": [
+      [
+        1088,
+        134
+      ],
+      [
+        1205,
+        139
+      ],
+      [
+        1200,
+        252
+      ],
+      [
+        1083,
+        247
+      ]
+    ],
+    "score": 1.0,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "1dd0c9e0ba78",
+    "file_name": "1dd0c9e0ba78.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "1dd969478164",
+    "file_name": "1dd969478164.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        719,
+        260
+      ],
+      [
+        790,
+        260
+      ],
+      [
+        790,
+        344
+      ],
+      [
+        719,
+        344
+      ]
+    ],
+    "score": 0.9747,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "1e51f17bd7b4",
+    "file_name": "1e51f17bd7b4.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        73
+      ],
+      [
+        870,
+        73
+      ],
+      [
+        870,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9969,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "1e6b30f3b998",
+    "file_name": "1e6b30f3b998.pdf",
+    "text": "潘",
+    "bbox": [
+      [
+        1037,
+        139
+      ],
+      [
+        1146,
+        139
+      ],
+      [
+        1146,
+        256
+      ],
+      [
+        1037,
+        256
+      ]
+    ],
+    "score": 0.9993,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "1e93aa5f513a",
+    "file_name": "1e93aa5f513a.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        333
+      ],
+      [
+        321,
+        333
+      ],
+      [
+        321,
+        402
+      ],
+      [
+        255,
+        402
+      ]
+    ],
+    "score": 0.999,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "1e9ff6ccaf2a",
+    "file_name": "1e9ff6ccaf2a.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        333
+      ],
+      [
+        321,
+        333
+      ],
+      [
+        321,
+        402
+      ],
+      [
+        255,
+        402
+      ]
+    ],
+    "score": 0.999,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "1eb576f0d4eb",
+    "file_name": "1eb576f0d4eb.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "1ed23a38eaa5",
+    "file_name": "1ed23a38eaa5.pdf",
+    "text": "余",
+    "bbox": [
+      [
+        148,
+        179
+      ],
+      [
+        232,
+        179
+      ],
+      [
+        232,
+        274
+      ],
+      [
+        148,
+        274
+      ]
+    ],
+    "score": 0.9885,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "1efc8f139851",
+    "file_name": "1efc8f139851.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        719,
+        260
+      ],
+      [
+        785,
+        260
+      ],
+      [
+        785,
+        344
+      ],
+      [
+        719,
+        344
+      ]
+    ],
+    "score": 0.9408,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "1f04dbae2633",
+    "file_name": "1f04dbae2633.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        333
+      ],
+      [
+        321,
+        333
+      ],
+      [
+        321,
+        406
+      ],
+      [
+        255,
+        406
+      ]
+    ],
+    "score": 0.9993,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "1f2b84f28f00",
+    "file_name": "1f2b84f28f00.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1651,
+        134
+      ],
+      [
+        1685,
+        135
+      ],
+      [
+        1682,
+        212
+      ],
+      [
+        1648,
+        211
+      ]
+    ],
+    "score": 0.9963,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "1f37cddbf88b",
+    "file_name": "1f37cddbf88b.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1152,
+        314
+      ],
+      [
+        1196,
+        314
+      ],
+      [
+        1196,
+        369
+      ],
+      [
+        1152,
+        369
+      ]
+    ],
+    "score": 0.9968,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "1f45e37eed53",
+    "file_name": "1f45e37eed53.pdf",
+    "text": "赵",
+    "bbox": [
+      [
+        1032,
+        131
+      ],
+      [
+        1145,
+        134
+      ],
+      [
+        1142,
+        254
+      ],
+      [
+        1028,
+        251
+      ]
+    ],
+    "score": 0.9962,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "1fcd8f0ec6b4",
+    "file_name": "1fcd8f0ec6b4.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1116,
+        173
+      ],
+      [
+        1279,
+        181
+      ],
+      [
+        1270,
+        360
+      ],
+      [
+        1108,
+        352
+      ]
+    ],
+    "score": 0.9992,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "1fdee3b47854",
+    "file_name": "1fdee3b47854.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        324
+      ],
+      [
+        322,
+        329
+      ],
+      [
+        316,
+        402
+      ],
+      [
+        249,
+        397
+      ]
+    ],
+    "score": 0.9987,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2000c11e7a1d",
+    "file_name": "2000c11e7a1d.pdf",
+    "text": "彭",
+    "bbox": [
+      [
+        1026,
+        132
+      ],
+      [
+        1142,
+        132
+      ],
+      [
+        1142,
+        267
+      ],
+      [
+        1026,
+        267
+      ]
+    ],
+    "score": 0.998,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "200622a398bf",
+    "file_name": "200622a398bf.pdf",
+    "text": "王",
+    "bbox": [
+      [
+        240,
+        270
+      ],
+      [
+        347,
+        270
+      ],
+      [
+        347,
+        391
+      ],
+      [
+        240,
+        391
+      ]
+    ],
+    "score": 0.9964,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "201c93794e6b",
+    "file_name": "201c93794e6b.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1152,
+        318
+      ],
+      [
+        1196,
+        318
+      ],
+      [
+        1196,
+        373
+      ],
+      [
+        1152,
+        373
+      ]
+    ],
+    "score": 0.9958,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2024f3b37508",
+    "file_name": "2024f3b37508.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        333
+      ],
+      [
+        321,
+        333
+      ],
+      [
+        321,
+        402
+      ],
+      [
+        255,
+        402
+      ]
+    ],
+    "score": 0.999,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2046b417a56b",
+    "file_name": "2046b417a56b.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1657,
+        146
+      ],
+      [
+        1690,
+        146
+      ],
+      [
+        1689,
+        208
+      ],
+      [
+        1656,
+        208
+      ]
+    ],
+    "score": 0.9702,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2049c49f6fae",
+    "file_name": "2049c49f6fae.pdf",
+    "text": "梁",
+    "bbox": [
+      [
+        229,
+        263
+      ],
+      [
+        347,
+        263
+      ],
+      [
+        347,
+        402
+      ],
+      [
+        229,
+        402
+      ]
+    ],
+    "score": 0.9946,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "208885d69898",
+    "file_name": "208885d69898.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        719,
+        260
+      ],
+      [
+        785,
+        259
+      ],
+      [
+        786,
+        343
+      ],
+      [
+        720,
+        344
+      ]
+    ],
+    "score": 0.9402,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2092854e85ce",
+    "file_name": "2092854e85ce.pdf",
+    "text": "顾",
+    "bbox": [
+      [
+        1043,
+        143
+      ],
+      [
+        1149,
+        140
+      ],
+      [
+        1152,
+        243
+      ],
+      [
+        1046,
+        246
+      ]
+    ],
+    "score": 0.9871,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "209e6e10ede8",
+    "file_name": "209e6e10ede8.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        333
+      ],
+      [
+        321,
+        333
+      ],
+      [
+        321,
+        402
+      ],
+      [
+        255,
+        402
+      ]
+    ],
+    "score": 0.999,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "20a97a089d7c",
+    "file_name": "20a97a089d7c.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1116,
+        133
+      ],
+      [
+        1279,
+        140
+      ],
+      [
+        1270,
+        320
+      ],
+      [
+        1108,
+        312
+      ]
+    ],
+    "score": 0.9998,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "20ed99ac4a26",
+    "file_name": "20ed99ac4a26.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        73
+      ],
+      [
+        870,
+        73
+      ],
+      [
+        870,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9969,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "20f34f1c66d5",
+    "file_name": "20f34f1c66d5.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1654,
+        142
+      ],
+      [
+        1687,
+        142
+      ],
+      [
+        1685,
+        212
+      ],
+      [
+        1652,
+        212
+      ]
+    ],
+    "score": 0.9723,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "213800d8099c",
+    "file_name": "213800d8099c.pdf",
+    "text": "宋",
+    "bbox": [
+      [
+        233,
+        267
+      ],
+      [
+        347,
+        267
+      ],
+      [
+        347,
+        395
+      ],
+      [
+        233,
+        395
+      ]
+    ],
+    "score": 0.9995,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2149f5dc8cbf",
+    "file_name": "2149f5dc8cbf.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        73
+      ],
+      [
+        870,
+        73
+      ],
+      [
+        870,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9969,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "214dbb17b767",
+    "file_name": "214dbb17b767.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        69
+      ],
+      [
+        871,
+        69
+      ],
+      [
+        871,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9978,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "215b405d2a18",
+    "file_name": "215b405d2a18.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        73
+      ],
+      [
+        870,
+        73
+      ],
+      [
+        870,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9969,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "215f8185c2d0",
+    "file_name": "215f8185c2d0.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        716,
+        256
+      ],
+      [
+        787,
+        256
+      ],
+      [
+        787,
+        340
+      ],
+      [
+        716,
+        340
+      ]
+    ],
+    "score": 0.9769,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2161d9e67a16",
+    "file_name": "2161d9e67a16.pdf",
+    "text": "计",
+    "bbox": [
+      [
+        1028,
+        127
+      ],
+      [
+        1143,
+        130
+      ],
+      [
+        1140,
+        247
+      ],
+      [
+        1025,
+        244
+      ]
+    ],
+    "score": 0.9996,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "216df480bd66",
+    "file_name": "216df480bd66.pdf",
+    "text": "何",
+    "bbox": [
+      [
+        1037,
+        143
+      ],
+      [
+        1146,
+        143
+      ],
+      [
+        1146,
+        249
+      ],
+      [
+        1037,
+        249
+      ]
+    ],
+    "score": 0.9858,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "217725119590",
+    "file_name": "217725119590.pdf",
+    "text": "阮",
+    "bbox": [
+      [
+        148,
+        186
+      ],
+      [
+        232,
+        186
+      ],
+      [
+        232,
+        270
+      ],
+      [
+        148,
+        270
+      ]
+    ],
+    "score": 0.9653,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "21b53dbcbb33",
+    "file_name": "21b53dbcbb33.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "21f745e02161",
+    "file_name": "21f745e02161.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1651,
+        134
+      ],
+      [
+        1685,
+        135
+      ],
+      [
+        1682,
+        212
+      ],
+      [
+        1648,
+        211
+      ]
+    ],
+    "score": 0.9955,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "224fb8d02305",
+    "file_name": "224fb8d02305.pdf",
+    "text": "钱",
+    "bbox": [
+      [
+        144,
+        175
+      ],
+      [
+        232,
+        175
+      ],
+      [
+        232,
+        274
+      ],
+      [
+        144,
+        274
+      ]
+    ],
+    "score": 0.9995,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2250ce914493",
+    "file_name": "2250ce914493.pdf",
+    "text": "水",
+    "bbox": [
+      [
+        1039,
+        147
+      ],
+      [
+        1145,
+        142
+      ],
+      [
+        1149,
+        237
+      ],
+      [
+        1043,
+        242
+      ]
+    ],
+    "score": 0.9994,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "22896732c76d",
+    "file_name": "22896732c76d.pdf",
+    "text": "舒",
+    "bbox": [
+      [
+        236,
+        270
+      ],
+      [
+        343,
+        270
+      ],
+      [
+        343,
+        387
+      ],
+      [
+        236,
+        387
+      ]
+    ],
+    "score": 0.9978,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "228adfd3c21a",
+    "file_name": "228adfd3c21a.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1114,
+        113
+      ],
+      [
+        1271,
+        113
+      ],
+      [
+        1271,
+        281
+      ],
+      [
+        1114,
+        281
+      ]
+    ],
+    "score": 0.9987,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "228df1581918",
+    "file_name": "228df1581918.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        716,
+        260
+      ],
+      [
+        787,
+        260
+      ],
+      [
+        787,
+        344
+      ],
+      [
+        716,
+        344
+      ]
+    ],
+    "score": 0.9693,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "22df73ecc4f8",
+    "file_name": "22df73ecc4f8.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        333
+      ],
+      [
+        321,
+        333
+      ],
+      [
+        321,
+        402
+      ],
+      [
+        255,
+        402
+      ]
+    ],
+    "score": 0.999,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "22f5b9437b47",
+    "file_name": "22f5b9437b47.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1114,
+        108
+      ],
+      [
+        1277,
+        113
+      ],
+      [
+        1272,
+        289
+      ],
+      [
+        1109,
+        284
+      ]
+    ],
+    "score": 0.9996,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "23061de17210",
+    "file_name": "23061de17210.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        73
+      ],
+      [
+        870,
+        73
+      ],
+      [
+        870,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9969,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "232a1ab9a549",
+    "file_name": "232a1ab9a549.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        69
+      ],
+      [
+        871,
+        69
+      ],
+      [
+        871,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9978,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "2364ac772477",
+    "file_name": "2364ac772477.pdf",
+    "text": "戚",
+    "bbox": [
+      [
+        235,
+        268
+      ],
+      [
+        342,
+        264
+      ],
+      [
+        346,
+        396
+      ],
+      [
+        239,
+        399
+      ]
+    ],
+    "score": 0.9985,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "236768d4225d",
+    "file_name": "236768d4225d.pdf",
+    "text": "雷",
+    "bbox": [
+      [
+        1079,
+        133
+      ],
+      [
+        1199,
+        128
+      ],
+      [
+        1205,
+        266
+      ],
+      [
+        1085,
+        272
+      ]
+    ],
+    "score": 0.9997,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "238b883aaa64",
+    "file_name": "238b883aaa64.pdf",
+    "text": "贝",
+    "bbox": [
+      [
+        1043,
+        147
+      ],
+      [
+        1149,
+        144
+      ],
+      [
+        1152,
+        239
+      ],
+      [
+        1046,
+        242
+      ]
+    ],
+    "score": 0.8595,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "23c6fd0aec0a",
+    "file_name": "23c6fd0aec0a.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        333
+      ],
+      [
+        321,
+        333
+      ],
+      [
+        321,
+        402
+      ],
+      [
+        255,
+        402
+      ]
+    ],
+    "score": 0.999,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "23d54b2c546e",
+    "file_name": "23d54b2c546e.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        716,
+        260
+      ],
+      [
+        787,
+        260
+      ],
+      [
+        787,
+        344
+      ],
+      [
+        716,
+        344
+      ]
+    ],
+    "score": 0.9742,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "23d6c5d0d27c",
+    "file_name": "23d6c5d0d27c.pdf",
+    "text": "毛",
+    "bbox": [
+      [
+        1088,
+        135
+      ],
+      [
+        1204,
+        135
+      ],
+      [
+        1204,
+        263
+      ],
+      [
+        1088,
+        263
+      ]
+    ],
+    "score": 0.9981,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "23f120b68052",
+    "file_name": "23f120b68052.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        333
+      ],
+      [
+        321,
+        333
+      ],
+      [
+        321,
+        402
+      ],
+      [
+        255,
+        402
+      ]
+    ],
+    "score": 0.999,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "243710e53f91",
+    "file_name": "243710e53f91.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1654,
+        142
+      ],
+      [
+        1687,
+        142
+      ],
+      [
+        1685,
+        212
+      ],
+      [
+        1652,
+        212
+      ]
+    ],
+    "score": 0.9904,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "245fa37caf99",
+    "file_name": "245fa37caf99.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        336
+      ],
+      [
+        321,
+        336
+      ],
+      [
+        321,
+        406
+      ],
+      [
+        255,
+        406
+      ]
+    ],
+    "score": 0.9987,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "24a797acb398",
+    "file_name": "24a797acb398.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1152,
+        318
+      ],
+      [
+        1196,
+        318
+      ],
+      [
+        1196,
+        373
+      ],
+      [
+        1152,
+        373
+      ]
+    ],
+    "score": 0.9958,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "24b8b5c485d4",
+    "file_name": "24b8b5c485d4.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        73
+      ],
+      [
+        870,
+        73
+      ],
+      [
+        870,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9969,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "24d8d5ed7f07",
+    "file_name": "24d8d5ed7f07.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1152,
+        318
+      ],
+      [
+        1196,
+        318
+      ],
+      [
+        1196,
+        373
+      ],
+      [
+        1152,
+        373
+      ]
+    ],
+    "score": 0.9958,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2509a89f977b",
+    "file_name": "2509a89f977b.pdf",
+    "text": "明",
+    "bbox": [
+      [
+        240,
+        270
+      ],
+      [
+        347,
+        270
+      ],
+      [
+        347,
+        387
+      ],
+      [
+        240,
+        387
+      ]
+    ],
+    "score": 0.9971,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2510546dfda5",
+    "file_name": "2510546dfda5.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        719,
+        260
+      ],
+      [
+        790,
+        260
+      ],
+      [
+        790,
+        344
+      ],
+      [
+        719,
+        344
+      ]
+    ],
+    "score": 0.9749,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "253abe1a02cb",
+    "file_name": "253abe1a02cb.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        719,
+        263
+      ],
+      [
+        785,
+        262
+      ],
+      [
+        786,
+        339
+      ],
+      [
+        720,
+        340
+      ]
+    ],
+    "score": 0.9457,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "254c5d333428",
+    "file_name": "254c5d333428.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        73
+      ],
+      [
+        870,
+        73
+      ],
+      [
+        870,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9969,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "2561878ceafc",
+    "file_name": "2561878ceafc.pdf",
+    "text": "舒",
+    "bbox": [
+      [
+        236,
+        270
+      ],
+      [
+        343,
+        270
+      ],
+      [
+        343,
+        391
+      ],
+      [
+        236,
+        391
+      ]
+    ],
+    "score": 0.9959,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "25b50a532ea2",
+    "file_name": "25b50a532ea2.pdf",
+    "text": "项",
+    "bbox": [
+      [
+        144,
+        179
+      ],
+      [
+        232,
+        179
+      ],
+      [
+        232,
+        274
+      ],
+      [
+        144,
+        274
+      ]
+    ],
+    "score": 0.9985,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2602b27bc2cb",
+    "file_name": "2602b27bc2cb.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "26108b818489",
+    "file_name": "26108b818489.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "266fbd36177c",
+    "file_name": "266fbd36177c.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        69
+      ],
+      [
+        870,
+        69
+      ],
+      [
+        870,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9985,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "26788ca879e4",
+    "file_name": "26788ca879e4.pdf",
+    "text": "孟",
+    "bbox": [
+      [
+        148,
+        179
+      ],
+      [
+        232,
+        179
+      ],
+      [
+        232,
+        274
+      ],
+      [
+        148,
+        274
+      ]
+    ],
+    "score": 0.9981,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "26a300c545d5",
+    "file_name": "26a300c545d5.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        719,
+        260
+      ],
+      [
+        785,
+        260
+      ],
+      [
+        785,
+        344
+      ],
+      [
+        719,
+        344
+      ]
+    ],
+    "score": 0.9328,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "26bef8235e2f",
+    "file_name": "26bef8235e2f.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1116,
+        177
+      ],
+      [
+        1279,
+        184
+      ],
+      [
+        1270,
+        364
+      ],
+      [
+        1108,
+        356
+      ]
+    ],
+    "score": 0.9998,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "26cb3fce2b36",
+    "file_name": "26cb3fce2b36.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "26d2dbbe1e95",
+    "file_name": "26d2dbbe1e95.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1657,
+        146
+      ],
+      [
+        1690,
+        146
+      ],
+      [
+        1689,
+        208
+      ],
+      [
+        1656,
+        208
+      ]
+    ],
+    "score": 0.9691,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "26f05fd15a20",
+    "file_name": "26f05fd15a20.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        336
+      ],
+      [
+        321,
+        336
+      ],
+      [
+        321,
+        406
+      ],
+      [
+        255,
+        406
+      ]
+    ],
+    "score": 0.9987,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "26f92e6456eb",
+    "file_name": "26f92e6456eb.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        69
+      ],
+      [
+        870,
+        69
+      ],
+      [
+        870,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9985,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "2706d21be285",
+    "file_name": "2706d21be285.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1152,
+        318
+      ],
+      [
+        1196,
+        318
+      ],
+      [
+        1196,
+        373
+      ],
+      [
+        1152,
+        373
+      ]
+    ],
+    "score": 0.9958,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "27170aeee94f",
+    "file_name": "27170aeee94f.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "27309948f48a",
+    "file_name": "27309948f48a.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        333
+      ],
+      [
+        321,
+        333
+      ],
+      [
+        321,
+        402
+      ],
+      [
+        255,
+        402
+      ]
+    ],
+    "score": 0.999,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "27468fab77f7",
+    "file_name": "27468fab77f7.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        716,
+        260
+      ],
+      [
+        787,
+        260
+      ],
+      [
+        787,
+        344
+      ],
+      [
+        716,
+        344
+      ]
+    ],
+    "score": 0.9692,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "27d5826f61c9",
+    "file_name": "27d5826f61c9.pdf",
+    "text": "鲁",
+    "bbox": [
+      [
+        1032,
+        131
+      ],
+      [
+        1145,
+        134
+      ],
+      [
+        1142,
+        254
+      ],
+      [
+        1028,
+        251
+      ]
+    ],
+    "score": 0.996,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "27e8df21a73f",
+    "file_name": "27e8df21a73f.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1110,
+        135
+      ],
+      [
+        1274,
+        135
+      ],
+      [
+        1274,
+        318
+      ],
+      [
+        1110,
+        318
+      ]
+    ],
+    "score": 0.9996,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "27f47bdc2fa7",
+    "file_name": "27f47bdc2fa7.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        716,
+        260
+      ],
+      [
+        782,
+        259
+      ],
+      [
+        782,
+        343
+      ],
+      [
+        716,
+        344
+      ]
+    ],
+    "score": 0.9206,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "28683359eca5",
+    "file_name": "28683359eca5.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1112,
+        175
+      ],
+      [
+        1278,
+        181
+      ],
+      [
+        1271,
+        364
+      ],
+      [
+        1105,
+        358
+      ]
+    ],
+    "score": 0.9998,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "287b026d8cda",
+    "file_name": "287b026d8cda.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        716,
+        260
+      ],
+      [
+        787,
+        259
+      ],
+      [
+        787,
+        343
+      ],
+      [
+        716,
+        344
+      ]
+    ],
+    "score": 0.9743,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "289d9e8ee4d0",
+    "file_name": "289d9e8ee4d0.pdf",
+    "text": "臧",
+    "bbox": [
+      [
+        140,
+        175
+      ],
+      [
+        230,
+        175
+      ],
+      [
+        230,
+        274
+      ],
+      [
+        140,
+        274
+      ]
+    ],
+    "score": 0.9921,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "28e199d22963",
+    "file_name": "28e199d22963.pdf",
+    "text": "齐",
+    "bbox": [
+      [
+        147,
+        187
+      ],
+      [
+        230,
+        184
+      ],
+      [
+        233,
+        265
+      ],
+      [
+        150,
+        268
+      ]
+    ],
+    "score": 0.9985,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "28e1a462e443",
+    "file_name": "28e1a462e443.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1657,
+        146
+      ],
+      [
+        1690,
+        146
+      ],
+      [
+        1689,
+        208
+      ],
+      [
+        1656,
+        208
+      ]
+    ],
+    "score": 0.9691,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "28f5a9bd6d6e",
+    "file_name": "28f5a9bd6d6e.pdf",
+    "text": "马",
+    "bbox": [
+      [
+        1037,
+        139
+      ],
+      [
+        1148,
+        139
+      ],
+      [
+        1148,
+        260
+      ],
+      [
+        1037,
+        260
+      ]
+    ],
+    "score": 0.9953,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "28fd44ebfdac",
+    "file_name": "28fd44ebfdac.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        716,
+        260
+      ],
+      [
+        782,
+        260
+      ],
+      [
+        782,
+        344
+      ],
+      [
+        716,
+        344
+      ]
+    ],
+    "score": 0.9204,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "29223685669e",
+    "file_name": "29223685669e.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        73
+      ],
+      [
+        870,
+        73
+      ],
+      [
+        870,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9969,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "29543dcc0314",
+    "file_name": "29543dcc0314.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1111,
+        107
+      ],
+      [
+        1279,
+        117
+      ],
+      [
+        1268,
+        300
+      ],
+      [
+        1100,
+        290
+      ]
+    ],
+    "score": 0.9991,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "295ccf8676ad",
+    "file_name": "295ccf8676ad.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        324
+      ],
+      [
+        322,
+        329
+      ],
+      [
+        316,
+        402
+      ],
+      [
+        249,
+        397
+      ]
+    ],
+    "score": 0.9987,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "295e431c8982",
+    "file_name": "295e431c8982.pdf",
+    "text": "明",
+    "bbox": [
+      [
+        148,
+        170
+      ],
+      [
+        237,
+        175
+      ],
+      [
+        231,
+        270
+      ],
+      [
+        142,
+        265
+      ]
+    ],
+    "score": 0.9964,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "298f903162ca",
+    "file_name": "298f903162ca.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1152,
+        318
+      ],
+      [
+        1196,
+        318
+      ],
+      [
+        1196,
+        373
+      ],
+      [
+        1152,
+        373
+      ]
+    ],
+    "score": 0.9958,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "29e622fff984",
+    "file_name": "29e622fff984.pdf",
+    "text": "傅",
+    "bbox": [
+      [
+        1037,
+        135
+      ],
+      [
+        1146,
+        135
+      ],
+      [
+        1146,
+        256
+      ],
+      [
+        1037,
+        256
+      ]
+    ],
+    "score": 0.9935,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "29f41e0619d3",
+    "file_name": "29f41e0619d3.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        719,
+        263
+      ],
+      [
+        790,
+        262
+      ],
+      [
+        791,
+        339
+      ],
+      [
+        720,
+        340
+      ]
+    ],
+    "score": 0.9829,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "29fd0802a56f",
+    "file_name": "29fd0802a56f.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "2a2186f13bb0",
+    "file_name": "2a2186f13bb0.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1112,
+        175
+      ],
+      [
+        1278,
+        181
+      ],
+      [
+        1271,
+        364
+      ],
+      [
+        1105,
+        358
+      ]
+    ],
+    "score": 0.9998,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2a231ef2b063",
+    "file_name": "2a231ef2b063.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1651,
+        134
+      ],
+      [
+        1685,
+        135
+      ],
+      [
+        1682,
+        212
+      ],
+      [
+        1648,
+        211
+      ]
+    ],
+    "score": 0.9958,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2a3eadca80c2",
+    "file_name": "2a3eadca80c2.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        73
+      ],
+      [
+        870,
+        73
+      ],
+      [
+        870,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9969,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "2a7617b0008f",
+    "file_name": "2a7617b0008f.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        716,
+        260
+      ],
+      [
+        782,
+        260
+      ],
+      [
+        782,
+        344
+      ],
+      [
+        716,
+        344
+      ]
+    ],
+    "score": 0.9204,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2a79b2edd0ea",
+    "file_name": "2a79b2edd0ea.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1110,
+        117
+      ],
+      [
+        1276,
+        117
+      ],
+      [
+        1276,
+        296
+      ],
+      [
+        1110,
+        296
+      ]
+    ],
+    "score": 0.9993,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2a8f0be00274",
+    "file_name": "2a8f0be00274.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        719,
+        260
+      ],
+      [
+        785,
+        260
+      ],
+      [
+        785,
+        344
+      ],
+      [
+        719,
+        344
+      ]
+    ],
+    "score": 0.9344,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2b12780d9816",
+    "file_name": "2b12780d9816.pdf",
+    "text": "严",
+    "bbox": [
+      [
+        549,
+        317
+      ],
+      [
+        615,
+        320
+      ],
+      [
+        611,
+        400
+      ],
+      [
+        545,
+        397
+      ]
+    ],
+    "score": 0.9999,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2b4d67f93767",
+    "file_name": "2b4d67f93767.pdf",
+    "text": "顾",
+    "bbox": [
+      [
+        251,
+        278
+      ],
+      [
+        353,
+        278
+      ],
+      [
+        353,
+        384
+      ],
+      [
+        251,
+        384
+      ]
+    ],
+    "score": 0.9918,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2b695cb6d77d",
+    "file_name": "2b695cb6d77d.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        73
+      ],
+      [
+        870,
+        73
+      ],
+      [
+        870,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9969,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "2b87d55be35a",
+    "file_name": "2b87d55be35a.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        69
+      ],
+      [
+        871,
+        69
+      ],
+      [
+        871,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9978,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "2b9fd3be103b",
+    "file_name": "2b9fd3be103b.pdf",
+    "text": "庞",
+    "bbox": [
+      [
+        1088,
+        132
+      ],
+      [
+        1206,
+        132
+      ],
+      [
+        1206,
+        270
+      ],
+      [
+        1088,
+        270
+      ]
+    ],
+    "score": 0.9994,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2bcd4e4d50db",
+    "file_name": "2bcd4e4d50db.pdf",
+    "text": "蓝",
+    "bbox": [
+      [
+        244,
+        278
+      ],
+      [
+        345,
+        278
+      ],
+      [
+        345,
+        343
+      ],
+      [
+        244,
+        343
+      ]
+    ],
+    "score": 0.5061,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2bdd592adcc5",
+    "file_name": "2bdd592adcc5.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1148,
+        307
+      ],
+      [
+        1195,
+        307
+      ],
+      [
+        1195,
+        373
+      ],
+      [
+        1148,
+        373
+      ]
+    ],
+    "score": 0.9984,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2beb8eb02e95",
+    "file_name": "2beb8eb02e95.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        333
+      ],
+      [
+        321,
+        333
+      ],
+      [
+        321,
+        402
+      ],
+      [
+        255,
+        402
+      ]
+    ],
+    "score": 0.999,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2c199a6ec34a",
+    "file_name": "2c199a6ec34a.pdf",
+    "text": "贾",
+    "bbox": [
+      [
+        144,
+        175
+      ],
+      [
+        230,
+        175
+      ],
+      [
+        230,
+        278
+      ],
+      [
+        144,
+        278
+      ]
+    ],
+    "score": 0.9988,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2c23f1949b5d",
+    "file_name": "2c23f1949b5d.pdf",
+    "text": "乐",
+    "bbox": [
+      [
+        148,
+        183
+      ],
+      [
+        231,
+        183
+      ],
+      [
+        231,
+        274
+      ],
+      [
+        148,
+        274
+      ]
+    ],
+    "score": 0.9996,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2c2d849107a9",
+    "file_name": "2c2d849107a9.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1115,
+        136
+      ],
+      [
+        1281,
+        146
+      ],
+      [
+        1270,
+        325
+      ],
+      [
+        1104,
+        315
+      ]
+    ],
+    "score": 0.9994,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2c7748872dac",
+    "file_name": "2c7748872dac.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "2ce95819a112",
+    "file_name": "2ce95819a112.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "2cf1cdde8805",
+    "file_name": "2cf1cdde8805.pdf",
+    "text": "江",
+    "bbox": [
+      [
+        236,
+        270
+      ],
+      [
+        342,
+        270
+      ],
+      [
+        342,
+        391
+      ],
+      [
+        236,
+        391
+      ]
+    ],
+    "score": 0.9892,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2d502b6d7f07",
+    "file_name": "2d502b6d7f07.pdf",
+    "text": "云",
+    "bbox": [
+      [
+        240,
+        270
+      ],
+      [
+        347,
+        270
+      ],
+      [
+        347,
+        391
+      ],
+      [
+        240,
+        391
+      ]
+    ],
+    "score": 0.9961,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2d54fd63cdb9",
+    "file_name": "2d54fd63cdb9.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        73
+      ],
+      [
+        870,
+        73
+      ],
+      [
+        870,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9969,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "2d5fb7ec23a4",
+    "file_name": "2d5fb7ec23a4.pdf",
+    "text": "严",
+    "bbox": [
+      [
+        140,
+        172
+      ],
+      [
+        228,
+        172
+      ],
+      [
+        228,
+        278
+      ],
+      [
+        140,
+        278
+      ]
+    ],
+    "score": 0.9995,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2d616b6087c2",
+    "file_name": "2d616b6087c2.pdf",
+    "text": "熊",
+    "bbox": [
+      [
+        144,
+        172
+      ],
+      [
+        232,
+        172
+      ],
+      [
+        232,
+        278
+      ],
+      [
+        144,
+        278
+      ]
+    ],
+    "score": 0.9885,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2dab0f685f9f",
+    "file_name": "2dab0f685f9f.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1654,
+        142
+      ],
+      [
+        1687,
+        142
+      ],
+      [
+        1685,
+        212
+      ],
+      [
+        1652,
+        212
+      ]
+    ],
+    "score": 0.967,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2dc0c6040efc",
+    "file_name": "2dc0c6040efc.pdf",
+    "text": "韦",
+    "bbox": [
+      [
+        229,
+        263
+      ],
+      [
+        345,
+        263
+      ],
+      [
+        345,
+        402
+      ],
+      [
+        229,
+        402
+      ]
+    ],
+    "score": 0.9985,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2ddf706c1d9c",
+    "file_name": "2ddf706c1d9c.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "2df44cef1e14",
+    "file_name": "2df44cef1e14.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "2e012f4bd8e3",
+    "file_name": "2e012f4bd8e3.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        716,
+        263
+      ],
+      [
+        787,
+        262
+      ],
+      [
+        787,
+        339
+      ],
+      [
+        716,
+        340
+      ]
+    ],
+    "score": 0.9824,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2e21b06d2a81",
+    "file_name": "2e21b06d2a81.pdf",
+    "text": "韦",
+    "bbox": [
+      [
+        151,
+        183
+      ],
+      [
+        234,
+        183
+      ],
+      [
+        234,
+        263
+      ],
+      [
+        151,
+        263
+      ]
+    ],
+    "score": 0.9973,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2e2aba99a07b",
+    "file_name": "2e2aba99a07b.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "2e3273354334",
+    "file_name": "2e3273354334.pdf",
+    "text": "鲁",
+    "bbox": [
+      [
+        144,
+        175
+      ],
+      [
+        230,
+        175
+      ],
+      [
+        230,
+        274
+      ],
+      [
+        144,
+        274
+      ]
+    ],
+    "score": 0.9999,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2e6be13bf432",
+    "file_name": "2e6be13bf432.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "2ea2bc22b36a",
+    "file_name": "2ea2bc22b36a.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "2ecb16c8ca4e",
+    "file_name": "2ecb16c8ca4e.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1121,
+        106
+      ],
+      [
+        1274,
+        106
+      ],
+      [
+        1274,
+        270
+      ],
+      [
+        1121,
+        270
+      ]
+    ],
+    "score": 0.9995,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2ed962ac1136",
+    "file_name": "2ed962ac1136.pdf",
+    "text": "舒",
+    "bbox": [
+      [
+        233,
+        263
+      ],
+      [
+        343,
+        263
+      ],
+      [
+        343,
+        395
+      ],
+      [
+        233,
+        395
+      ]
+    ],
+    "score": 0.995,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2ee39314a271",
+    "file_name": "2ee39314a271.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        73
+      ],
+      [
+        870,
+        73
+      ],
+      [
+        870,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9969,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "2f1ec8d027a2",
+    "file_name": "2f1ec8d027a2.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1654,
+        138
+      ],
+      [
+        1687,
+        139
+      ],
+      [
+        1685,
+        212
+      ],
+      [
+        1652,
+        211
+      ]
+    ],
+    "score": 0.9745,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2f277008b2d5",
+    "file_name": "2f277008b2d5.pdf",
+    "text": "杨",
+    "bbox": [
+      [
+        144,
+        179
+      ],
+      [
+        230,
+        179
+      ],
+      [
+        230,
+        274
+      ],
+      [
+        144,
+        274
+      ]
+    ],
+    "score": 0.9966,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2f63c52b4e4e",
+    "file_name": "2f63c52b4e4e.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        333
+      ],
+      [
+        321,
+        333
+      ],
+      [
+        321,
+        406
+      ],
+      [
+        255,
+        406
+      ]
+    ],
+    "score": 0.9993,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2f691e163ba5",
+    "file_name": "2f691e163ba5.pdf",
+    "text": "祁",
+    "bbox": [
+      [
+        233,
+        267
+      ],
+      [
+        347,
+        267
+      ],
+      [
+        347,
+        395
+      ],
+      [
+        233,
+        395
+      ]
+    ],
+    "score": 0.9932,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2f70f87e6fc4",
+    "file_name": "2f70f87e6fc4.pdf",
+    "text": "唐",
+    "bbox": [
+      [
+        148,
+        175
+      ],
+      [
+        234,
+        175
+      ],
+      [
+        234,
+        274
+      ],
+      [
+        148,
+        274
+      ]
+    ],
+    "score": 0.9996,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2f9555456ee3",
+    "file_name": "2f9555456ee3.pdf",
+    "text": "柏",
+    "bbox": [
+      [
+        1029,
+        135
+      ],
+      [
+        1142,
+        135
+      ],
+      [
+        1142,
+        256
+      ],
+      [
+        1029,
+        256
+      ]
+    ],
+    "score": 0.9986,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2fa0c1f90ca1",
+    "file_name": "2fa0c1f90ca1.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        69
+      ],
+      [
+        870,
+        69
+      ],
+      [
+        870,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9985,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "2fa3c427ed13",
+    "file_name": "2fa3c427ed13.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1657,
+        146
+      ],
+      [
+        1690,
+        146
+      ],
+      [
+        1689,
+        208
+      ],
+      [
+        1656,
+        208
+      ]
+    ],
+    "score": 0.9588,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2fd0ce7ae69f",
+    "file_name": "2fd0ce7ae69f.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        716,
+        260
+      ],
+      [
+        787,
+        260
+      ],
+      [
+        787,
+        344
+      ],
+      [
+        716,
+        344
+      ]
+    ],
+    "score": 0.9744,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2fe7fd017dfc",
+    "file_name": "2fe7fd017dfc.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1152,
+        318
+      ],
+      [
+        1196,
+        318
+      ],
+      [
+        1196,
+        373
+      ],
+      [
+        1152,
+        373
+      ]
+    ],
+    "score": 0.9958,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "2ff76eb2823c",
+    "file_name": "2ff76eb2823c.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "30213c86e35b",
+    "file_name": "30213c86e35b.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1112,
+        175
+      ],
+      [
+        1276,
+        181
+      ],
+      [
+        1269,
+        364
+      ],
+      [
+        1105,
+        358
+      ]
+    ],
+    "score": 0.9998,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "304a55288af1",
+    "file_name": "304a55288af1.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1152,
+        318
+      ],
+      [
+        1196,
+        318
+      ],
+      [
+        1196,
+        369
+      ],
+      [
+        1152,
+        369
+      ]
+    ],
+    "score": 0.9962,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "306a0dcdfd4f",
+    "file_name": "306a0dcdfd4f.pdf",
+    "text": "蓝",
+    "bbox": [
+      [
+        233,
+        267
+      ],
+      [
+        343,
+        267
+      ],
+      [
+        343,
+        398
+      ],
+      [
+        233,
+        398
+      ]
+    ],
+    "score": 0.9992,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "306bc222d3c9",
+    "file_name": "306bc222d3c9.pdf",
+    "text": "麻",
+    "bbox": [
+      [
+        244,
+        270
+      ],
+      [
+        349,
+        270
+      ],
+      [
+        349,
+        387
+      ],
+      [
+        244,
+        387
+      ]
+    ],
+    "score": 0.9986,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "306f75d923b4",
+    "file_name": "306f75d923b4.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        69
+      ],
+      [
+        870,
+        69
+      ],
+      [
+        870,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9985,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "308111902c5b",
+    "file_name": "308111902c5b.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1152,
+        318
+      ],
+      [
+        1196,
+        318
+      ],
+      [
+        1196,
+        369
+      ],
+      [
+        1152,
+        369
+      ]
+    ],
+    "score": 0.9962,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "30b82d0b6749",
+    "file_name": "30b82d0b6749.pdf",
+    "text": "邬",
+    "bbox": [
+      [
+        144,
+        175
+      ],
+      [
+        232,
+        175
+      ],
+      [
+        232,
+        274
+      ],
+      [
+        144,
+        274
+      ]
+    ],
+    "score": 0.9931,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "30ef437e4e87",
+    "file_name": "30ef437e4e87.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1114,
+        106
+      ],
+      [
+        1280,
+        119
+      ],
+      [
+        1265,
+        301
+      ],
+      [
+        1099,
+        289
+      ]
+    ],
+    "score": 0.9997,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "30f4e483d61a",
+    "file_name": "30f4e483d61a.pdf",
+    "text": "彭",
+    "bbox": [
+      [
+        1085,
+        132
+      ],
+      [
+        1201,
+        132
+      ],
+      [
+        1201,
+        256
+      ],
+      [
+        1085,
+        256
+      ]
+    ],
+    "score": 0.9987,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "315cc68dc657",
+    "file_name": "315cc68dc657.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "318cdbe5a91d",
+    "file_name": "318cdbe5a91d.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        73
+      ],
+      [
+        871,
+        73
+      ],
+      [
+        871,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9955,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "319f9a50b496",
+    "file_name": "319f9a50b496.pdf",
+    "text": "廉",
+    "bbox": [
+      [
+        1096,
+        135
+      ],
+      [
+        1206,
+        135
+      ],
+      [
+        1206,
+        260
+      ],
+      [
+        1096,
+        260
+      ]
+    ],
+    "score": 0.9945,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "31caeb4dd171",
+    "file_name": "31caeb4dd171.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1152,
+        314
+      ],
+      [
+        1196,
+        314
+      ],
+      [
+        1196,
+        369
+      ],
+      [
+        1152,
+        369
+      ]
+    ],
+    "score": 0.9968,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "31de6f80cb2a",
+    "file_name": "31de6f80cb2a.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1152,
+        318
+      ],
+      [
+        1196,
+        318
+      ],
+      [
+        1196,
+        373
+      ],
+      [
+        1152,
+        373
+      ]
+    ],
+    "score": 0.9958,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "31fa330892bf",
+    "file_name": "31fa330892bf.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1152,
+        318
+      ],
+      [
+        1196,
+        318
+      ],
+      [
+        1196,
+        373
+      ],
+      [
+        1152,
+        373
+      ]
+    ],
+    "score": 0.9958,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3228f93bb665",
+    "file_name": "3228f93bb665.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "322a534558eb",
+    "file_name": "322a534558eb.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        333
+      ],
+      [
+        321,
+        333
+      ],
+      [
+        321,
+        402
+      ],
+      [
+        255,
+        402
+      ]
+    ],
+    "score": 0.999,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "322ea801ed93",
+    "file_name": "322ea801ed93.pdf",
+    "text": "任",
+    "bbox": [
+      [
+        148,
+        175
+      ],
+      [
+        234,
+        175
+      ],
+      [
+        234,
+        278
+      ],
+      [
+        148,
+        278
+      ]
+    ],
+    "score": 0.9955,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3232b54fd7b3",
+    "file_name": "3232b54fd7b3.pdf",
+    "text": "孟",
+    "bbox": [
+      [
+        1085,
+        135
+      ],
+      [
+        1201,
+        135
+      ],
+      [
+        1201,
+        260
+      ],
+      [
+        1085,
+        260
+      ]
+    ],
+    "score": 0.9991,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "324abe092218",
+    "file_name": "324abe092218.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "328b29b7d71a",
+    "file_name": "328b29b7d71a.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1113,
+        177
+      ],
+      [
+        1279,
+        184
+      ],
+      [
+        1270,
+        363
+      ],
+      [
+        1104,
+        356
+      ]
+    ],
+    "score": 0.9994,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "32be2b6f927b",
+    "file_name": "32be2b6f927b.pdf",
+    "text": "汤",
+    "bbox": [
+      [
+        236,
+        267
+      ],
+      [
+        348,
+        267
+      ],
+      [
+        348,
+        395
+      ],
+      [
+        236,
+        395
+      ]
+    ],
+    "score": 0.9995,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "32c5322fffd4",
+    "file_name": "32c5322fffd4.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        719,
+        263
+      ],
+      [
+        790,
+        262
+      ],
+      [
+        791,
+        339
+      ],
+      [
+        720,
+        340
+      ]
+    ],
+    "score": 0.9789,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3309c7c9e65d",
+    "file_name": "3309c7c9e65d.pdf",
+    "text": "卫",
+    "bbox": [
+      [
+        148,
+        183
+      ],
+      [
+        232,
+        183
+      ],
+      [
+        232,
+        263
+      ],
+      [
+        148,
+        263
+      ]
+    ],
+    "score": 0.9996,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3339192030ea",
+    "file_name": "3339192030ea.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "334280966def",
+    "file_name": "334280966def.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "338031af6483",
+    "file_name": "338031af6483.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1120,
+        142
+      ],
+      [
+        1280,
+        149
+      ],
+      [
+        1272,
+        320
+      ],
+      [
+        1112,
+        313
+      ]
+    ],
+    "score": 0.9994,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3397644d9a30",
+    "file_name": "3397644d9a30.pdf",
+    "text": "于",
+    "bbox": [
+      [
+        1085,
+        135
+      ],
+      [
+        1203,
+        135
+      ],
+      [
+        1203,
+        263
+      ],
+      [
+        1085,
+        263
+      ]
+    ],
+    "score": 0.9988,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "33b39ac146b1",
+    "file_name": "33b39ac146b1.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1156,
+        318
+      ],
+      [
+        1199,
+        318
+      ],
+      [
+        1199,
+        373
+      ],
+      [
+        1156,
+        373
+      ]
+    ],
+    "score": 0.9959,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "33dd1925e1d7",
+    "file_name": "33dd1925e1d7.pdf",
+    "text": "沈",
+    "bbox": [
+      [
+        143,
+        171
+      ],
+      [
+        231,
+        174
+      ],
+      [
+        227,
+        269
+      ],
+      [
+        139,
+        266
+      ]
+    ],
+    "score": 0.9978,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "33ffdc554c7c",
+    "file_name": "33ffdc554c7c.pdf",
+    "text": "花",
+    "bbox": [
+      [
+        1085,
+        132
+      ],
+      [
+        1203,
+        132
+      ],
+      [
+        1203,
+        256
+      ],
+      [
+        1085,
+        256
+      ]
+    ],
+    "score": 0.9997,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "342364f8b6bc",
+    "file_name": "342364f8b6bc.pdf",
+    "text": "邵",
+    "bbox": [
+      [
+        227,
+        268
+      ],
+      [
+        344,
+        263
+      ],
+      [
+        350,
+        391
+      ],
+      [
+        233,
+        396
+      ]
+    ],
+    "score": 0.996,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3426b461ab39",
+    "file_name": "3426b461ab39.pdf",
+    "text": "史",
+    "bbox": [
+      [
+        1088,
+        132
+      ],
+      [
+        1204,
+        132
+      ],
+      [
+        1204,
+        260
+      ],
+      [
+        1088,
+        260
+      ]
+    ],
+    "score": 0.9999,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "347e0b5ba0a8",
+    "file_name": "347e0b5ba0a8.pdf",
+    "text": "赵",
+    "bbox": [
+      [
+        148,
+        179
+      ],
+      [
+        232,
+        179
+      ],
+      [
+        232,
+        263
+      ],
+      [
+        148,
+        263
+      ]
+    ],
+    "score": 0.9804,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "34b25bcd6fd7",
+    "file_name": "34b25bcd6fd7.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        69
+      ],
+      [
+        870,
+        69
+      ],
+      [
+        870,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9985,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "34dfa59bfb6d",
+    "file_name": "34dfa59bfb6d.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1120,
+        96
+      ],
+      [
+        1277,
+        104
+      ],
+      [
+        1269,
+        268
+      ],
+      [
+        1112,
+        261
+      ]
+    ],
+    "score": 0.9994,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "34eaea2409e6",
+    "file_name": "34eaea2409e6.pdf",
+    "text": "费",
+    "bbox": [
+      [
+        1024,
+        133
+      ],
+      [
+        1140,
+        129
+      ],
+      [
+        1144,
+        261
+      ],
+      [
+        1028,
+        264
+      ]
+    ],
+    "score": 0.9988,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "353da620fe42",
+    "file_name": "353da620fe42.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "35692ea3ebcc",
+    "file_name": "35692ea3ebcc.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        336
+      ],
+      [
+        321,
+        336
+      ],
+      [
+        321,
+        406
+      ],
+      [
+        255,
+        406
+      ]
+    ],
+    "score": 0.9987,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "35c748055928",
+    "file_name": "35c748055928.pdf",
+    "text": "何",
+    "bbox": [
+      [
+        1029,
+        139
+      ],
+      [
+        1143,
+        139
+      ],
+      [
+        1143,
+        256
+      ],
+      [
+        1029,
+        256
+      ]
+    ],
+    "score": 0.9992,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "35cb0dcd8551",
+    "file_name": "35cb0dcd8551.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1110,
+        183
+      ],
+      [
+        1274,
+        183
+      ],
+      [
+        1274,
+        362
+      ],
+      [
+        1110,
+        362
+      ]
+    ],
+    "score": 0.9994,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "35ccc827eab7",
+    "file_name": "35ccc827eab7.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1112,
+        164
+      ],
+      [
+        1278,
+        171
+      ],
+      [
+        1271,
+        353
+      ],
+      [
+        1105,
+        347
+      ]
+    ],
+    "score": 0.9998,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "361d7ef09c72",
+    "file_name": "361d7ef09c72.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1654,
+        146
+      ],
+      [
+        1687,
+        146
+      ],
+      [
+        1685,
+        208
+      ],
+      [
+        1652,
+        208
+      ]
+    ],
+    "score": 0.9739,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "368bd6beeb53",
+    "file_name": "368bd6beeb53.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1152,
+        314
+      ],
+      [
+        1196,
+        314
+      ],
+      [
+        1196,
+        369
+      ],
+      [
+        1152,
+        369
+      ]
+    ],
+    "score": 0.9968,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3691c831e541",
+    "file_name": "3691c831e541.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1152,
+        318
+      ],
+      [
+        1196,
+        318
+      ],
+      [
+        1196,
+        373
+      ],
+      [
+        1152,
+        373
+      ]
+    ],
+    "score": 0.9958,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "36ea591a8801",
+    "file_name": "36ea591a8801.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        719,
+        263
+      ],
+      [
+        790,
+        262
+      ],
+      [
+        791,
+        339
+      ],
+      [
+        720,
+        340
+      ]
+    ],
+    "score": 0.9827,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "36f0430db63b",
+    "file_name": "36f0430db63b.pdf",
+    "text": "傅",
+    "bbox": [
+      [
+        1085,
+        135
+      ],
+      [
+        1203,
+        135
+      ],
+      [
+        1203,
+        263
+      ],
+      [
+        1085,
+        263
+      ]
+    ],
+    "score": 0.9974,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3711cd2cd831",
+    "file_name": "3711cd2cd831.pdf",
+    "text": "计",
+    "bbox": [
+      [
+        144,
+        175
+      ],
+      [
+        230,
+        175
+      ],
+      [
+        230,
+        274
+      ],
+      [
+        144,
+        274
+      ]
+    ],
+    "score": 0.9996,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3716e55822db",
+    "file_name": "3716e55822db.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        333
+      ],
+      [
+        321,
+        333
+      ],
+      [
+        321,
+        402
+      ],
+      [
+        255,
+        402
+      ]
+    ],
+    "score": 0.999,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3732af127df3",
+    "file_name": "3732af127df3.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        251,
+        325
+      ],
+      [
+        321,
+        325
+      ],
+      [
+        321,
+        409
+      ],
+      [
+        251,
+        409
+      ]
+    ],
+    "score": 0.9993,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "373880549856",
+    "file_name": "373880549856.pdf",
+    "text": "纪",
+    "bbox": [
+      [
+        148,
+        183
+      ],
+      [
+        230,
+        183
+      ],
+      [
+        230,
+        263
+      ],
+      [
+        148,
+        263
+      ]
+    ],
+    "score": 0.994,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3751ed52af72",
+    "file_name": "3751ed52af72.pdf",
+    "text": "沈",
+    "bbox": [
+      [
+        1026,
+        132
+      ],
+      [
+        1141,
+        132
+      ],
+      [
+        1141,
+        263
+      ],
+      [
+        1026,
+        263
+      ]
+    ],
+    "score": 0.9994,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "37c2d8aebc0b",
+    "file_name": "37c2d8aebc0b.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        73
+      ],
+      [
+        870,
+        73
+      ],
+      [
+        870,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9969,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "37cc885db4e1",
+    "file_name": "37cc885db4e1.pdf",
+    "text": "孙",
+    "bbox": [
+      [
+        233,
+        270
+      ],
+      [
+        342,
+        270
+      ],
+      [
+        342,
+        387
+      ],
+      [
+        233,
+        387
+      ]
+    ],
+    "score": 0.9965,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "37d58a76e2ca",
+    "file_name": "37d58a76e2ca.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1654,
+        142
+      ],
+      [
+        1687,
+        142
+      ],
+      [
+        1685,
+        212
+      ],
+      [
+        1652,
+        212
+      ]
+    ],
+    "score": 0.989,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "38345a286301",
+    "file_name": "38345a286301.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1152,
+        318
+      ],
+      [
+        1196,
+        318
+      ],
+      [
+        1196,
+        369
+      ],
+      [
+        1152,
+        369
+      ]
+    ],
+    "score": 0.9962,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "384a052960ea",
+    "file_name": "384a052960ea.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        73
+      ],
+      [
+        870,
+        73
+      ],
+      [
+        870,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9969,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "38a48e2d82cd",
+    "file_name": "38a48e2d82cd.pdf",
+    "text": "江",
+    "bbox": [
+      [
+        1081,
+        135
+      ],
+      [
+        1199,
+        135
+      ],
+      [
+        1199,
+        263
+      ],
+      [
+        1081,
+        263
+      ]
+    ],
+    "score": 0.9993,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "38c6501fa58e",
+    "file_name": "38c6501fa58e.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        333
+      ],
+      [
+        321,
+        333
+      ],
+      [
+        321,
+        402
+      ],
+      [
+        255,
+        402
+      ]
+    ],
+    "score": 0.999,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "38e21f691e50",
+    "file_name": "38e21f691e50.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        333
+      ],
+      [
+        321,
+        333
+      ],
+      [
+        321,
+        402
+      ],
+      [
+        255,
+        402
+      ]
+    ],
+    "score": 0.999,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "39248d2913b7",
+    "file_name": "39248d2913b7.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        333
+      ],
+      [
+        321,
+        333
+      ],
+      [
+        321,
+        402
+      ],
+      [
+        255,
+        402
+      ]
+    ],
+    "score": 0.999,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "393998c9bf02",
+    "file_name": "393998c9bf02.pdf",
+    "text": "吴",
+    "bbox": [
+      [
+        236,
+        267
+      ],
+      [
+        348,
+        267
+      ],
+      [
+        348,
+        395
+      ],
+      [
+        236,
+        395
+      ]
+    ],
+    "score": 0.9939,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3975277d0555",
+    "file_name": "3975277d0555.pdf",
+    "text": "危",
+    "bbox": [
+      [
+        144,
+        175
+      ],
+      [
+        232,
+        175
+      ],
+      [
+        232,
+        274
+      ],
+      [
+        144,
+        274
+      ]
+    ],
+    "score": 0.9996,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "398c2ac13da5",
+    "file_name": "398c2ac13da5.pdf",
+    "text": "昌",
+    "bbox": [
+      [
+        244,
+        267
+      ],
+      [
+        354,
+        267
+      ],
+      [
+        354,
+        395
+      ],
+      [
+        244,
+        395
+      ]
+    ],
+    "score": 0.9995,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "39a7da353a13",
+    "file_name": "39a7da353a13.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1152,
+        318
+      ],
+      [
+        1196,
+        318
+      ],
+      [
+        1196,
+        373
+      ],
+      [
+        1152,
+        373
+      ]
+    ],
+    "score": 0.9958,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "39d1cc5bf1ef",
+    "file_name": "39d1cc5bf1ef.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1651,
+        134
+      ],
+      [
+        1685,
+        135
+      ],
+      [
+        1682,
+        212
+      ],
+      [
+        1648,
+        211
+      ]
+    ],
+    "score": 0.9969,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "39e0500d3232",
+    "file_name": "39e0500d3232.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        719,
+        263
+      ],
+      [
+        790,
+        262
+      ],
+      [
+        791,
+        339
+      ],
+      [
+        720,
+        340
+      ]
+    ],
+    "score": 0.9829,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3a117f2c5d61",
+    "file_name": "3a117f2c5d61.pdf",
+    "text": "卞",
+    "bbox": [
+      [
+        251,
+        270
+      ],
+      [
+        352,
+        270
+      ],
+      [
+        352,
+        391
+      ],
+      [
+        251,
+        391
+      ]
+    ],
+    "score": 0.8785,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3a4f95376491",
+    "file_name": "3a4f95376491.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1114,
+        150
+      ],
+      [
+        1276,
+        150
+      ],
+      [
+        1276,
+        329
+      ],
+      [
+        1114,
+        329
+      ]
+    ],
+    "score": 0.9997,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3a633d3235c2",
+    "file_name": "3a633d3235c2.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "3a6db06b16f1",
+    "file_name": "3a6db06b16f1.pdf",
+    "text": "郎",
+    "bbox": [
+      [
+        1088,
+        135
+      ],
+      [
+        1204,
+        135
+      ],
+      [
+        1204,
+        263
+      ],
+      [
+        1088,
+        263
+      ]
+    ],
+    "score": 0.9997,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3a91c5d19d7f",
+    "file_name": "3a91c5d19d7f.pdf",
+    "text": "路",
+    "bbox": [
+      [
+        235,
+        258
+      ],
+      [
+        344,
+        261
+      ],
+      [
+        340,
+        393
+      ],
+      [
+        231,
+        390
+      ]
+    ],
+    "score": 0.998,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3af7eb2b6e74",
+    "file_name": "3af7eb2b6e74.pdf",
+    "text": "苏",
+    "bbox": [
+      [
+        144,
+        179
+      ],
+      [
+        231,
+        179
+      ],
+      [
+        231,
+        270
+      ],
+      [
+        144,
+        270
+      ]
+    ],
+    "score": 0.999,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3af82ee0caa5",
+    "file_name": "3af82ee0caa5.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        73
+      ],
+      [
+        870,
+        73
+      ],
+      [
+        870,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9969,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "3b0eefc1aa30",
+    "file_name": "3b0eefc1aa30.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        333
+      ],
+      [
+        321,
+        333
+      ],
+      [
+        321,
+        406
+      ],
+      [
+        255,
+        406
+      ]
+    ],
+    "score": 0.9993,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3b1f0738ed2b",
+    "file_name": "3b1f0738ed2b.pdf",
+    "text": "毛",
+    "bbox": [
+      [
+        1092,
+        139
+      ],
+      [
+        1202,
+        139
+      ],
+      [
+        1202,
+        252
+      ],
+      [
+        1092,
+        252
+      ]
+    ],
+    "score": 0.9994,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3b2bcd5b1f3d",
+    "file_name": "3b2bcd5b1f3d.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        329
+      ],
+      [
+        321,
+        329
+      ],
+      [
+        321,
+        402
+      ],
+      [
+        255,
+        402
+      ]
+    ],
+    "score": 0.999,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3b3f919ed19f",
+    "file_name": "3b3f919ed19f.pdf",
+    "text": "施",
+    "bbox": [
+      [
+        1096,
+        135
+      ],
+      [
+        1204,
+        135
+      ],
+      [
+        1204,
+        260
+      ],
+      [
+        1096,
+        260
+      ]
+    ],
+    "score": 0.9982,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3b507f2f5bd4",
+    "file_name": "3b507f2f5bd4.pdf",
+    "text": "席",
+    "bbox": [
+      [
+        236,
+        267
+      ],
+      [
+        348,
+        267
+      ],
+      [
+        348,
+        395
+      ],
+      [
+        236,
+        395
+      ]
+    ],
+    "score": 0.9998,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3b69253718ce",
+    "file_name": "3b69253718ce.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        73
+      ],
+      [
+        870,
+        73
+      ],
+      [
+        870,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9969,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "3b6fc8cbc277",
+    "file_name": "3b6fc8cbc277.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        719,
+        263
+      ],
+      [
+        785,
+        262
+      ],
+      [
+        786,
+        339
+      ],
+      [
+        720,
+        340
+      ]
+    ],
+    "score": 0.9427,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3b9a9b8d87bd",
+    "file_name": "3b9a9b8d87bd.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        336
+      ],
+      [
+        321,
+        336
+      ],
+      [
+        321,
+        406
+      ],
+      [
+        255,
+        406
+      ]
+    ],
+    "score": 0.9987,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3b9b93c1b89e",
+    "file_name": "3b9b93c1b89e.pdf",
+    "text": "伍",
+    "bbox": [
+      [
+        1090,
+        144
+      ],
+      [
+        1200,
+        139
+      ],
+      [
+        1205,
+        248
+      ],
+      [
+        1096,
+        254
+      ]
+    ],
+    "score": 0.9977,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3ba77c4e251f",
+    "file_name": "3ba77c4e251f.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "3bb299fb4d70",
+    "file_name": "3bb299fb4d70.pdf",
+    "text": "江",
+    "bbox": [
+      [
+        1033,
+        143
+      ],
+      [
+        1143,
+        143
+      ],
+      [
+        1143,
+        245
+      ],
+      [
+        1033,
+        245
+      ]
+    ],
+    "score": 0.9992,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3bd65f2adae1",
+    "file_name": "3bd65f2adae1.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1152,
+        318
+      ],
+      [
+        1196,
+        318
+      ],
+      [
+        1196,
+        373
+      ],
+      [
+        1152,
+        373
+      ]
+    ],
+    "score": 0.9958,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3be042274a44",
+    "file_name": "3be042274a44.pdf",
+    "text": "米",
+    "bbox": [
+      [
+        144,
+        175
+      ],
+      [
+        230,
+        175
+      ],
+      [
+        230,
+        274
+      ],
+      [
+        144,
+        274
+      ]
+    ],
+    "score": 0.9947,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3be09cce2ad6",
+    "file_name": "3be09cce2ad6.pdf",
+    "text": "尹",
+    "bbox": [
+      [
+        1085,
+        135
+      ],
+      [
+        1203,
+        135
+      ],
+      [
+        1203,
+        263
+      ],
+      [
+        1085,
+        263
+      ]
+    ],
+    "score": 0.9954,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3c26bd862e2a",
+    "file_name": "3c26bd862e2a.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "3c2f33d66950",
+    "file_name": "3c2f33d66950.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "3c3bb76f3556",
+    "file_name": "3c3bb76f3556.pdf",
+    "text": "贺",
+    "bbox": [
+      [
+        140,
+        172
+      ],
+      [
+        232,
+        172
+      ],
+      [
+        232,
+        278
+      ],
+      [
+        140,
+        278
+      ]
+    ],
+    "score": 0.9997,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3c5350301c35",
+    "file_name": "3c5350301c35.pdf",
+    "text": "魏",
+    "bbox": [
+      [
+        136,
+        172
+      ],
+      [
+        226,
+        172
+      ],
+      [
+        226,
+        278
+      ],
+      [
+        136,
+        278
+      ]
+    ],
+    "score": 0.9999,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3c591d38c950",
+    "file_name": "3c591d38c950.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1110,
+        117
+      ],
+      [
+        1274,
+        117
+      ],
+      [
+        1274,
+        296
+      ],
+      [
+        1110,
+        296
+      ]
+    ],
+    "score": 0.9995,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3c608bdf3580",
+    "file_name": "3c608bdf3580.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "3c91bc071e44",
+    "file_name": "3c91bc071e44.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        73
+      ],
+      [
+        870,
+        73
+      ],
+      [
+        870,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9969,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "3c97e168c21c",
+    "file_name": "3c97e168c21c.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        69
+      ],
+      [
+        870,
+        69
+      ],
+      [
+        870,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9985,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "3d25c539e098",
+    "file_name": "3d25c539e098.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1657,
+        146
+      ],
+      [
+        1690,
+        146
+      ],
+      [
+        1689,
+        208
+      ],
+      [
+        1656,
+        208
+      ]
+    ],
+    "score": 0.9615,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3d353fd881fd",
+    "file_name": "3d353fd881fd.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        73
+      ],
+      [
+        870,
+        73
+      ],
+      [
+        870,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9969,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "3d72d404ee4f",
+    "file_name": "3d72d404ee4f.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        73
+      ],
+      [
+        870,
+        73
+      ],
+      [
+        870,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9969,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "3d803fdacebf",
+    "file_name": "3d803fdacebf.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1152,
+        318
+      ],
+      [
+        1196,
+        318
+      ],
+      [
+        1196,
+        369
+      ],
+      [
+        1152,
+        369
+      ]
+    ],
+    "score": 0.9962,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3dce5677262d",
+    "file_name": "3dce5677262d.pdf",
+    "text": "季",
+    "bbox": [
+      [
+        1024,
+        144
+      ],
+      [
+        1137,
+        139
+      ],
+      [
+        1142,
+        260
+      ],
+      [
+        1029,
+        265
+      ]
+    ],
+    "score": 0.9987,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3dd695343fde",
+    "file_name": "3dd695343fde.pdf",
+    "text": "吕",
+    "bbox": [
+      [
+        1044,
+        135
+      ],
+      [
+        1153,
+        135
+      ],
+      [
+        1153,
+        256
+      ],
+      [
+        1044,
+        256
+      ]
+    ],
+    "score": 0.9724,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3dda204de1db",
+    "file_name": "3dda204de1db.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        333
+      ],
+      [
+        321,
+        333
+      ],
+      [
+        321,
+        402
+      ],
+      [
+        255,
+        402
+      ]
+    ],
+    "score": 0.999,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3dfc2777cd3f",
+    "file_name": "3dfc2777cd3f.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        333
+      ],
+      [
+        321,
+        333
+      ],
+      [
+        321,
+        402
+      ],
+      [
+        255,
+        402
+      ]
+    ],
+    "score": 0.999,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3e0ed21d9e3e",
+    "file_name": "3e0ed21d9e3e.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        333
+      ],
+      [
+        321,
+        333
+      ],
+      [
+        321,
+        402
+      ],
+      [
+        255,
+        402
+      ]
+    ],
+    "score": 0.999,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3e25869b4049",
+    "file_name": "3e25869b4049.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1116,
+        115
+      ],
+      [
+        1279,
+        122
+      ],
+      [
+        1270,
+        301
+      ],
+      [
+        1108,
+        294
+      ]
+    ],
+    "score": 0.9994,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3e474f7e6f9e",
+    "file_name": "3e474f7e6f9e.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        73
+      ],
+      [
+        870,
+        73
+      ],
+      [
+        870,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9969,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "3e6e5b87b65f",
+    "file_name": "3e6e5b87b65f.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1657,
+        146
+      ],
+      [
+        1690,
+        146
+      ],
+      [
+        1689,
+        208
+      ],
+      [
+        1656,
+        208
+      ]
+    ],
+    "score": 0.9508,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3e9056f712c5",
+    "file_name": "3e9056f712c5.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        324
+      ],
+      [
+        322,
+        329
+      ],
+      [
+        316,
+        402
+      ],
+      [
+        249,
+        397
+      ]
+    ],
+    "score": 0.9987,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3eabfaad4cc0",
+    "file_name": "3eabfaad4cc0.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        324
+      ],
+      [
+        322,
+        329
+      ],
+      [
+        316,
+        402
+      ],
+      [
+        249,
+        397
+      ]
+    ],
+    "score": 0.9987,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3f13ab86c2e9",
+    "file_name": "3f13ab86c2e9.pdf",
+    "text": "吴",
+    "bbox": [
+      [
+        233,
+        267
+      ],
+      [
+        345,
+        267
+      ],
+      [
+        345,
+        395
+      ],
+      [
+        233,
+        395
+      ]
+    ],
+    "score": 0.9962,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3f41d2428c72",
+    "file_name": "3f41d2428c72.pdf",
+    "text": "柏",
+    "bbox": [
+      [
+        1024,
+        127
+      ],
+      [
+        1141,
+        130
+      ],
+      [
+        1138,
+        262
+      ],
+      [
+        1021,
+        259
+      ]
+    ],
+    "score": 0.9981,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3f68440bfa87",
+    "file_name": "3f68440bfa87.pdf",
+    "text": "潘",
+    "bbox": [
+      [
+        229,
+        263
+      ],
+      [
+        349,
+        263
+      ],
+      [
+        349,
+        402
+      ],
+      [
+        229,
+        402
+      ]
+    ],
+    "score": 0.9931,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3f690c8c7b58",
+    "file_name": "3f690c8c7b58.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1654,
+        146
+      ],
+      [
+        1687,
+        146
+      ],
+      [
+        1685,
+        208
+      ],
+      [
+        1652,
+        208
+      ]
+    ],
+    "score": 0.9739,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3fc71dab5f9d",
+    "file_name": "3fc71dab5f9d.pdf",
+    "text": "严",
+    "bbox": [
+      [
+        144,
+        175
+      ],
+      [
+        232,
+        175
+      ],
+      [
+        232,
+        274
+      ],
+      [
+        144,
+        274
+      ]
+    ],
+    "score": 0.9989,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3fc93dab0af3",
+    "file_name": "3fc93dab0af3.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1156,
+        318
+      ],
+      [
+        1199,
+        318
+      ],
+      [
+        1199,
+        373
+      ],
+      [
+        1156,
+        373
+      ]
+    ],
+    "score": 0.9959,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3fd460bc23a0",
+    "file_name": "3fd460bc23a0.pdf",
+    "text": "萧",
+    "bbox": [
+      [
+        1028,
+        131
+      ],
+      [
+        1143,
+        134
+      ],
+      [
+        1140,
+        254
+      ],
+      [
+        1025,
+        251
+      ]
+    ],
+    "score": 0.9954,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3fdb4b9a8a65",
+    "file_name": "3fdb4b9a8a65.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        716,
+        260
+      ],
+      [
+        787,
+        260
+      ],
+      [
+        787,
+        344
+      ],
+      [
+        716,
+        344
+      ]
+    ],
+    "score": 0.9744,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3fe86ed7b12e",
+    "file_name": "3fe86ed7b12e.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1114,
+        168
+      ],
+      [
+        1276,
+        168
+      ],
+      [
+        1276,
+        347
+      ],
+      [
+        1114,
+        347
+      ]
+    ],
+    "score": 0.9997,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "3fed64043a4f",
+    "file_name": "3fed64043a4f.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        719,
+        260
+      ],
+      [
+        790,
+        260
+      ],
+      [
+        790,
+        344
+      ],
+      [
+        719,
+        344
+      ]
+    ],
+    "score": 0.9716,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "40054aa79afd",
+    "file_name": "40054aa79afd.pdf",
+    "text": "禹",
+    "bbox": [
+      [
+        155,
+        186
+      ],
+      [
+        221,
+        186
+      ],
+      [
+        221,
+        260
+      ],
+      [
+        155,
+        260
+      ]
+    ],
+    "score": 0.9979,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "4018e8c8448b",
+    "file_name": "4018e8c8448b.pdf",
+    "text": "邹",
+    "bbox": [
+      [
+        1081,
+        132
+      ],
+      [
+        1201,
+        132
+      ],
+      [
+        1201,
+        260
+      ],
+      [
+        1081,
+        260
+      ]
+    ],
+    "score": 0.9982,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "407b0adc2861",
+    "file_name": "407b0adc2861.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1657,
+        146
+      ],
+      [
+        1690,
+        146
+      ],
+      [
+        1689,
+        208
+      ],
+      [
+        1656,
+        208
+      ]
+    ],
+    "score": 0.9658,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "40befa7ed9fc",
+    "file_name": "40befa7ed9fc.pdf",
+    "text": "孟",
+    "bbox": [
+      [
+        1028,
+        127
+      ],
+      [
+        1144,
+        130
+      ],
+      [
+        1140,
+        262
+      ],
+      [
+        1024,
+        259
+      ]
+    ],
+    "score": 0.9959,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "4111047d5270",
+    "file_name": "4111047d5270.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1152,
+        318
+      ],
+      [
+        1196,
+        318
+      ],
+      [
+        1196,
+        373
+      ],
+      [
+        1152,
+        373
+      ]
+    ],
+    "score": 0.9958,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "41145fe6c7d4",
+    "file_name": "41145fe6c7d4.pdf",
+    "text": "韦",
+    "bbox": [
+      [
+        1088,
+        135
+      ],
+      [
+        1204,
+        135
+      ],
+      [
+        1204,
+        260
+      ],
+      [
+        1088,
+        260
+      ]
+    ],
+    "score": 0.9989,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "417ec0aaa7ea",
+    "file_name": "417ec0aaa7ea.pdf",
+    "text": "蓝",
+    "bbox": [
+      [
+        240,
+        270
+      ],
+      [
+        349,
+        270
+      ],
+      [
+        349,
+        365
+      ],
+      [
+        240,
+        365
+      ]
+    ],
+    "score": 0.9997,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "41cc49841523",
+    "file_name": "41cc49841523.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        324
+      ],
+      [
+        322,
+        329
+      ],
+      [
+        316,
+        402
+      ],
+      [
+        249,
+        397
+      ]
+    ],
+    "score": 0.9987,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "41dc08243695",
+    "file_name": "41dc08243695.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        333
+      ],
+      [
+        321,
+        333
+      ],
+      [
+        321,
+        402
+      ],
+      [
+        255,
+        402
+      ]
+    ],
+    "score": 0.999,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "41e6299b61d1",
+    "file_name": "41e6299b61d1.pdf",
+    "text": "危",
+    "bbox": [
+      [
+        240,
+        267
+      ],
+      [
+        345,
+        267
+      ],
+      [
+        345,
+        387
+      ],
+      [
+        240,
+        387
+      ]
+    ],
+    "score": 0.9979,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "41e9d2f4284b",
+    "file_name": "41e9d2f4284b.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1654,
+        142
+      ],
+      [
+        1687,
+        142
+      ],
+      [
+        1685,
+        212
+      ],
+      [
+        1652,
+        212
+      ]
+    ],
+    "score": 0.9941,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "4207a05229dc",
+    "file_name": "4207a05229dc.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1654,
+        142
+      ],
+      [
+        1687,
+        142
+      ],
+      [
+        1685,
+        212
+      ],
+      [
+        1652,
+        212
+      ]
+    ],
+    "score": 0.989,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "420a103a6fe5",
+    "file_name": "420a103a6fe5.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        719,
+        260
+      ],
+      [
+        785,
+        260
+      ],
+      [
+        785,
+        344
+      ],
+      [
+        719,
+        344
+      ]
+    ],
+    "score": 0.9408,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "4211406c0ce8",
+    "file_name": "4211406c0ce8.pdf",
+    "text": "奚",
+    "bbox": [
+      [
+        1032,
+        140
+      ],
+      [
+        1144,
+        137
+      ],
+      [
+        1147,
+        257
+      ],
+      [
+        1035,
+        260
+      ]
+    ],
+    "score": 0.9856,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "422a4955c06f",
+    "file_name": "422a4955c06f.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        719,
+        260
+      ],
+      [
+        790,
+        260
+      ],
+      [
+        790,
+        344
+      ],
+      [
+        719,
+        344
+      ]
+    ],
+    "score": 0.9745,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "422ec417bce4",
+    "file_name": "422ec417bce4.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1654,
+        146
+      ],
+      [
+        1687,
+        146
+      ],
+      [
+        1685,
+        208
+      ],
+      [
+        1652,
+        208
+      ]
+    ],
+    "score": 0.948,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "4295a6473c9e",
+    "file_name": "4295a6473c9e.pdf",
+    "text": "邹",
+    "bbox": [
+      [
+        233,
+        263
+      ],
+      [
+        342,
+        263
+      ],
+      [
+        342,
+        398
+      ],
+      [
+        233,
+        398
+      ]
+    ],
+    "score": 0.9997,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "42980334ab4d",
+    "file_name": "42980334ab4d.pdf",
+    "text": "贝",
+    "bbox": [
+      [
+        240,
+        270
+      ],
+      [
+        352,
+        270
+      ],
+      [
+        352,
+        398
+      ],
+      [
+        240,
+        398
+      ]
+    ],
+    "score": 0.9981,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "42aa04a9c208",
+    "file_name": "42aa04a9c208.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1654,
+        142
+      ],
+      [
+        1687,
+        142
+      ],
+      [
+        1685,
+        212
+      ],
+      [
+        1652,
+        212
+      ]
+    ],
+    "score": 0.9899,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "42b82419e45d",
+    "file_name": "42b82419e45d.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        716,
+        260
+      ],
+      [
+        782,
+        260
+      ],
+      [
+        782,
+        344
+      ],
+      [
+        716,
+        344
+      ]
+    ],
+    "score": 0.9137,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "42c23b377e4e",
+    "file_name": "42c23b377e4e.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1152,
+        318
+      ],
+      [
+        1196,
+        318
+      ],
+      [
+        1196,
+        373
+      ],
+      [
+        1152,
+        373
+      ]
+    ],
+    "score": 0.9958,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "42f4b8a27eef",
+    "file_name": "42f4b8a27eef.pdf",
+    "text": "壁",
+    "bbox": [
+      [
+        1081,
+        150
+      ],
+      [
+        1358,
+        150
+      ],
+      [
+        1358,
+        216
+      ],
+      [
+        1081,
+        216
+      ]
+    ],
+    "score": 0.9191,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "4337739410c8",
+    "file_name": "4337739410c8.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1152,
+        318
+      ],
+      [
+        1196,
+        318
+      ],
+      [
+        1196,
+        373
+      ],
+      [
+        1152,
+        373
+      ]
+    ],
+    "score": 0.9958,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "4405f1b2a983",
+    "file_name": "4405f1b2a983.pdf",
+    "text": "陶",
+    "bbox": [
+      [
+        151,
+        186
+      ],
+      [
+        234,
+        186
+      ],
+      [
+        234,
+        263
+      ],
+      [
+        151,
+        263
+      ]
+    ],
+    "score": 0.9862,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "4433d2c83f1b",
+    "file_name": "4433d2c83f1b.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "4434800f5b66",
+    "file_name": "4434800f5b66.pdf",
+    "text": "苗",
+    "bbox": [
+      [
+        1035,
+        131
+      ],
+      [
+        1147,
+        134
+      ],
+      [
+        1144,
+        254
+      ],
+      [
+        1032,
+        251
+      ]
+    ],
+    "score": 0.9993,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "445d82adbdc5",
+    "file_name": "445d82adbdc5.pdf",
+    "text": "尹",
+    "bbox": [
+      [
+        151,
+        183
+      ],
+      [
+        234,
+        183
+      ],
+      [
+        234,
+        263
+      ],
+      [
+        151,
+        263
+      ]
+    ],
+    "score": 0.9873,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "4477de302d1b",
+    "file_name": "4477de302d1b.pdf",
+    "text": "应",
+    "bbox": [
+      [
+        569,
+        318
+      ],
+      [
+        605,
+        318
+      ],
+      [
+        605,
+        369
+      ],
+      [
+        569,
+        369
+      ]
+    ],
+    "score": 0.9785,
+    "label": "WORK_EXPERIENCE"
+  },
+  {
+    "resume_id": "448fb0c72db9",
+    "file_name": "448fb0c72db9.pdf",
+    "text": "纪",
+    "bbox": [
+      [
+        1029,
+        135
+      ],
+      [
+        1143,
+        135
+      ],
+      [
+        1143,
+        252
+      ],
+      [
+        1029,
+        252
+      ]
+    ],
+    "score": 0.9826,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "449da8d22f4b",
+    "file_name": "449da8d22f4b.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        336
+      ],
+      [
+        321,
+        336
+      ],
+      [
+        321,
+        406
+      ],
+      [
+        255,
+        406
+      ]
+    ],
+    "score": 0.9987,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "44c6e98a6311",
+    "file_name": "44c6e98a6311.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1657,
+        146
+      ],
+      [
+        1690,
+        146
+      ],
+      [
+        1689,
+        208
+      ],
+      [
+        1656,
+        208
+      ]
+    ],
+    "score": 0.9591,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "44f385a4aea7",
+    "file_name": "44f385a4aea7.pdf",
+    "text": "滕",
+    "bbox": [
+      [
+        148,
+        179
+      ],
+      [
+        234,
+        179
+      ],
+      [
+        234,
+        274
+      ],
+      [
+        148,
+        274
+      ]
+    ],
+    "score": 0.9607,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "45172a9a9349",
+    "file_name": "45172a9a9349.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1152,
+        318
+      ],
+      [
+        1196,
+        318
+      ],
+      [
+        1196,
+        373
+      ],
+      [
+        1152,
+        373
+      ]
+    ],
+    "score": 0.9958,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "4525a75236ee",
+    "file_name": "4525a75236ee.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1113,
+        177
+      ],
+      [
+        1279,
+        184
+      ],
+      [
+        1270,
+        363
+      ],
+      [
+        1104,
+        356
+      ]
+    ],
+    "score": 0.9994,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "4534ce6ee3ef",
+    "file_name": "4534ce6ee3ef.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1110,
+        150
+      ],
+      [
+        1276,
+        150
+      ],
+      [
+        1276,
+        329
+      ],
+      [
+        1110,
+        329
+      ]
+    ],
+    "score": 0.9992,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "453a872caa0e",
+    "file_name": "453a872caa0e.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        73
+      ],
+      [
+        870,
+        73
+      ],
+      [
+        870,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9969,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "4543937fa3a5",
+    "file_name": "4543937fa3a5.pdf",
+    "text": "简",
+    "bbox": [
+      [
+        1112,
+        175
+      ],
+      [
+        1278,
+        181
+      ],
+      [
+        1271,
+        364
+      ],
+      [
+        1105,
+        358
+      ]
+    ],
+    "score": 0.9998,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "455708d14641",
+    "file_name": "455708d14641.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        816,
+        69
+      ],
+      [
+        870,
+        69
+      ],
+      [
+        870,
+        135
+      ],
+      [
+        816,
+        135
+      ]
+    ],
+    "score": 0.9985,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "456f92241ce5",
+    "file_name": "456f92241ce5.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1156,
+        318
+      ],
+      [
+        1199,
+        318
+      ],
+      [
+        1199,
+        373
+      ],
+      [
+        1156,
+        373
+      ]
+    ],
+    "score": 0.9959,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "45808220dcff",
+    "file_name": "45808220dcff.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        719,
+        260
+      ],
+      [
+        790,
+        260
+      ],
+      [
+        790,
+        344
+      ],
+      [
+        719,
+        344
+      ]
+    ],
+    "score": 0.9745,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "4595d0a12a7a",
+    "file_name": "4595d0a12a7a.pdf",
+    "text": "苗",
+    "bbox": [
+      [
+        1090,
+        126
+      ],
+      [
+        1208,
+        133
+      ],
+      [
+        1200,
+        261
+      ],
+      [
+        1082,
+        254
+      ]
+    ],
+    "score": 0.9995,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "459e952508ab",
+    "file_name": "459e952508ab.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1657,
+        146
+      ],
+      [
+        1690,
+        146
+      ],
+      [
+        1689,
+        208
+      ],
+      [
+        1656,
+        208
+      ]
+    ],
+    "score": 0.9661,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "45b4bd6ce661",
+    "file_name": "45b4bd6ce661.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1152,
+        314
+      ],
+      [
+        1196,
+        314
+      ],
+      [
+        1196,
+        369
+      ],
+      [
+        1152,
+        369
+      ]
+    ],
+    "score": 0.9968,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "45d914d75dd3",
+    "file_name": "45d914d75dd3.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1152,
+        318
+      ],
+      [
+        1196,
+        318
+      ],
+      [
+        1196,
+        369
+      ],
+      [
+        1152,
+        369
+      ]
+    ],
+    "score": 0.9962,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "45e5de0a20d1",
+    "file_name": "45e5de0a20d1.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        333
+      ],
+      [
+        321,
+        333
+      ],
+      [
+        321,
+        402
+      ],
+      [
+        255,
+        402
+      ]
+    ],
+    "score": 0.999,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "4608709566ad",
+    "file_name": "4608709566ad.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1152,
+        318
+      ],
+      [
+        1196,
+        318
+      ],
+      [
+        1196,
+        373
+      ],
+      [
+        1152,
+        373
+      ]
+    ],
+    "score": 0.9958,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "461d38398540",
+    "file_name": "461d38398540.pdf",
+    "text": "P",
+    "bbox": [
+      [
+        716,
+        260
+      ],
+      [
+        782,
+        260
+      ],
+      [
+        782,
+        344
+      ],
+      [
+        716,
+        344
+      ]
+    ],
+    "score": 0.9293,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "461ffa728031",
+    "file_name": "461ffa728031.pdf",
+    "text": "教",
+    "bbox": [
+      [
+        812,
+        73
+      ],
+      [
+        867,
+        73
+      ],
+      [
+        867,
+        135
+      ],
+      [
+        812,
+        135
+      ]
+    ],
+    "score": 0.9979,
+    "label": "EDUCATION"
+  },
+  {
+    "resume_id": "4628b170b574",
+    "file_name": "4628b170b574.pdf",
+    "text": "个",
+    "bbox": [
+      [
+        1156,
+        318
+      ],
+      [
+        1199,
+        318
+      ],
+      [
+        1199,
+        373
+      ],
+      [
+        1156,
+        373
+      ]
+    ],
+    "score": 0.9959,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "463f3335169f",
+    "file_name": "463f3335169f.pdf",
+    "text": "姓",
+    "bbox": [
+      [
+        255,
+        333
+      ],
+      [
+        321,
+        333
+      ],
+      [
+        321,
+        402
+      ],
+      [
+        255,
+        402
+      ]
+    ],
+    "score": 0.999,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "466561e7dd38",
+    "file_name": "466561e7dd38.pdf",
+    "text": "w",
+    "bbox": [
+      [
+        1657,
+        146
+      ],
+      [
+        1690,
+        146
+      ],
+      [
+        1689,
+        208
+      ],
+      [
+        1656,
+        208
+      ]
+    ],
+    "score": 0.9643,
+    "label": "PERSONAL_INFO"
+  },
+  {
+    "resume_id": "467a7fa86357",
+    "file_name": "467a7fa86357.pdf",
+    "text": "张",
+    "bbox": [
+      [
+        140,
+        175
+      ],
+      [
+        232,
+        175
+      ],
+      [
+        232,
+        274
+      ],
+      [
+        140,
+        274
+      ]
+    ],
+    "score": 0.9941,
+    "label": "PERSONAL_INFO"
+  }
+]

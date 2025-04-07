@@ -22,27 +22,31 @@ Traditional resume screening methods struggle with scanned images, multilingual 
 
 ## 🛠 System Architecture
 
-The pipeline consists of the following major components:
+This project implements a fully customized and fine-tuned deep learning pipeline, where models is trained or adapted using domain-specific bilingual resume data**.
 
 1. **Image Super-Resolution**
-   - Model: [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
-   - Purpose: Enhance low-resolution resume images
+   - 🔧 **Model Used**: Real-ESRGAN
+   - 🧩 Purpose: Enhance low-quality or scanned resume images for better OCR accuracy.
 
-2. **OCR & Layout Extraction**
-   - Model: [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
-   - Converts images into structured key-value format
+2. **OCR & Preprocessing**
+   - 🔧 **Model Used**: PaddleOCR
+   - 🧩 Function: Extracts bounding boxes, recognized text, and structure annotations. Outputs reformatted for LayoutLM input.
 
 3. **Field-Level Information Extraction**
-   - Model: [LayoutLMv3](https://huggingface.co/microsoft/layoutlmv3-base)
-   - Trained to extract fields like NAME, EDUCATION, WORK EXPERIENCE, etc.
+   - 🔧 **Model Used**: LayoutLMv3 (fine-tuned with annotated resume fields)
+   - 🧩 Trained to extract structured fields such as NAME, EDUCATION, WORK_EXPERIENCE, etc. on both English and Chinese resumes.
 
 4. **Semantic Matching & Scoring**
-   - Model: Cross-Encoders (e.g., `ms-marco-MiniLM`, `Erlangshen-Roberta-110M`)
-   - Computes a 0.0–1.0 relevance score between resume and job description
+   - 🔧 **Models Used**: Cross-Encoders (e.g., ms-marco-MiniLM, Erlangshen-Roberta-110M) — **both Trained to score Resume–Job data**
+   - 🧩 Input: Resume–Job description pairs  
+   - 🧠 Output: Relevance scores in the range [0.0, 1.0], aligned with human annotations.
 
-5. **Interpretability Layer**
-   - Model: LoRA-tuned [Qwen2.5](https://github.com/QwenLM)
-   - Generates {"score": float, "reason": string} style JSON outputs
+5. **Interpretable Scoring via LLM**
+   - 🔧 **Model Used**: Qwen2.5-3B-Instruct + LoRA (instruction fine-tuned)
+   - 🧩 Purpose: Generates interpretable JSON output: `{"score": float, "reason": string}` for each resume-job match.
+
+> 🔬 Models above are trained or fine-tuned using curated, bilingual, partially synthetic resume datasets to optimize performance for multilingual, real-world recruitment scenarios.
+
 
 ---
 

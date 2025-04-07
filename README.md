@@ -62,9 +62,10 @@ you can find the images dataset through the following [link](https://tianchi.ali
 
 | Source | Description |
 |--------|-------------|
-| Kaggle | 1,500 English resume images (multi-profession) |
-| Alibaba Cloud Competition | 1,000+ manually constructed Chinese resumes (synthetic, anonymized) |
-| Custom Annotations | 500+ resume–job relevance pairs with scores & reasoning |
+| Kaggle | 1,500 English resume images (multi-profession) |[link](https://huggingface.co/datasets/cxycxyg/resume-json-en.cn/tree/main)
+| Alibaba Cloud Competition | 1,000+ manually constructed Chinese resumes (synthetic, anonymized) |[link](https://huggingface.co/datasets/cxycxyg/resume-json-en.cn/tree/main)
+| Custom Annotations | 500+ resume–job relevance pairs with scores & reasoning |[link](https://huggingface.co/datasets/cxycxyg/Encoder.Qwen-score.reason-dataset/tree/main)
+| layout Annotations | [link](https://huggingface.co/datasets/Kunling/layoutlm_resume_data/tree/main)
 
 All data used is either publicly available or anonymized, with no real personal information retained.
 
@@ -85,11 +86,11 @@ All data used is either publicly available or anonymized, with no real personal 
 
 ## 🧩 Model Downloads (To be filled)
 
-- [Download PaddleOCR config](#)
-- [Download LayoutLMv3 weights](#)
-- [Download Cross-Encoder (English)](#)
-- [Download Cross-Encoder (Chinese)](#)
-- [Download Qwen2.5 LoRA adapter](#)
+- [Download LayoutLMv3 weights-en](https://huggingface.co/cxycxyg/layoutlmv3-resume-en/tree/main/layout-en)
+- [Download LayoutLMv3 weights-cn](https://huggingface.co/cxycxyg/layoutlmv3-resume-cn/tree/main)
+- [Download Cross-Encoder (English)](https://huggingface.co/cxycxyg/Cross-Encoder_EN/tree/main)
+- [Download Cross-Encoder (Chinese)](https://huggingface.co/cxycxyg/Cross-Encoder_CN/tree/main)
+- [Download Qwen2.5 LoRA adapter](https://huggingface.co/cxycxyg/qwen2.5_LORA/tree/main)
 
 ---
 

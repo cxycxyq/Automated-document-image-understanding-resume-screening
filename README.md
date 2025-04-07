@@ -67,7 +67,7 @@ you can find the images dataset through the following [link](https://tianchi.ali
 | Custom Annotations | 500+ resume–job relevance pairs with scores & reasoning |[link](https://huggingface.co/datasets/cxycxyg/Encoder.Qwen-score.reason-dataset/tree/main)
 | layout Annotations | [link](https://huggingface.co/datasets/Kunling/layoutlm_resume_data/tree/main)
 
-All data used is either publicly available or anonymized, with no real personal information retained.
+All dataset used is either publicly available or anonymized, with no real personal information retained.
 
 
 ---

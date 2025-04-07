@@ -5,6 +5,6 @@ Automated document image understanding plays a crucial role in intelligent recru
 ## English Resume Dataset
 - The dataset contains 13389 records, encompassing job titles and corresponding resume texts from all three sources. 
 I randomly selected 1,500 resumes from the LiveCareer website, deleted all personal information (such as name, phone number, email address, address, etc.), and then randomly generated personal information to overwrite
-you can find the images dataset through the following [link]([https://example.com](https://www.kaggle.com/datasets/youssefkhalil/resumes-images-datasets))
+you can find the images dataset through the following [link](https://www.kaggle.com/datasets/youssefkhalil/resumes-images-datasets)
 ## Chinese Resume Dataset
 

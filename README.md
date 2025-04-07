@@ -1,5 +1,6 @@
 # Automated-document-image-understanding-resume-screening
-## An end-to-end framework integrating OCR enhancement, document structure recognition, and deep semantic matching to fiinish Automated resume screening
+## Primary Objective
+An end-to-end framework integrating OCR enhancement, document structure recognition, and deep semantic matching to fiinish Automated resume screening
 Automated document image understanding plays a crucial role in intelligent recruitment systems.This dissertation presents an end-to-end framework integrating OCR enhancement, document structure recognition, and deep semantic matching. 
 # The original source of the selected dataset（Raw data）
 ## English Resume Dataset

@@ -80,7 +80,7 @@ All dataset used is either publicly available or anonymized, with no real person
 | LayoutLMv3 | Field Extraction Accuracy | 0.778 |
 | Cross-Encoder (EN) | Spearman | 0.956 |
 | Cross-Encoder (CN) | Spearman | 0.907 |
-| Qwen2.5 | Score + Reason Output | JSON format with detailed rationale |
+| Qwen2.5 | Score + Reason Output | JSON format with detailed rationale. [Preview of some results](https://huggingface.co/datasets/cxycxyg/Qwen-result/tree/main) |
 
 ---
 

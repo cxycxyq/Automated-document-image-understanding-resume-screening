@@ -84,7 +84,7 @@ All dataset used is either publicly available or anonymized, with no real person
 
 ---
 
-## 🧩 Model Downloads (To be filled)
+## 🧩 Model Downloads 
 
 - [Download LayoutLMv3 weights-en](https://huggingface.co/cxycxyg/layoutlmv3-resume-en/tree/main/layout-en)
 - [Download LayoutLMv3 weights-cn](https://huggingface.co/cxycxyg/layoutlmv3-resume-cn/tree/main)

@@ -65,7 +65,7 @@ you can find the images dataset through the following [link](https://tianchi.ali
 | Kaggle | 1,500 English resume images (multi-profession)[link](https://huggingface.co/datasets/cxycxyg/resume-json-en.cn/tree/main) |
 | Alibaba Cloud Competition | 1,000+ manually constructed Chinese resumes (synthetic, anonymized)[link](https://huggingface.co/datasets/cxycxyg/resume-json-en.cn/tree/main) |
 | Custom Annotations | 500+ resume–job relevance pairs with scores & reasoning [link](https://huggingface.co/datasets/cxycxyg/Encoder.Qwen-score.reason-dataset/tree/main)|
-| layout Annotations | [link](https://huggingface.co/datasets/Kunling/layoutlm_resume_data/tree/main)| 
+| layout Annotations | PART A: [link](https://huggingface.co/datasets/Kunling/layoutlm_resume_data/tree/main)  PART B: [link](https://huggingface.co/datasets/cxycxyg/Encoder.Qwen-score.reason-dataset/tree/main)| 
 
 All dataset used is either publicly available or anonymized, with no real personal information retained.
 
